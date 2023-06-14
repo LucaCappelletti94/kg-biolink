@@ -1,0 +1,53 @@
+{
+    "edge_types": [
+        "in_subset",
+        "close_mappings",
+        "exact_mappings",
+        "narrow_mappings",
+        "is_a",
+        "broad_mappings",
+        "values_from",
+        "mappings",
+        "inverse",
+        "mixins",
+        "typeof",
+        "defining_slots",
+        "union_of",
+        "slots",
+        "related_mappings"
+    ],
+    "node_types": [
+        "domain",
+        "range"
+    ],
+    "node_alias_links": [
+        "slot_uri",
+        "uri",
+        "aliases"
+    ],
+    "useless_edge_types": [
+        "multivalued",
+        "required",
+        "identifier",
+        "abstract",
+        "designates_type",
+        "is_class_field",
+        "inherited",
+        "symmetric",
+        "annotations",
+        "alt_descriptions",
+        "examples",
+        "deprecated",
+        "id_prefixes",
+        "local_names",
+        "notes",
+        "tree_root",
+        "comments",
+        "see_also",
+        "inlined_as_list",
+        "mixin",
+        "base",
+        "slot_usage",
+        "deprecated_element_has_exact_replacement"
+    ]
+}
