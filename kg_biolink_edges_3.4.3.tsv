@@ -1,0 +1,3981 @@
+source	edge_type	destination
+category type	typeof	uriorcurie
+iri type	typeof	uriorcurie
+label type	typeof	string
+predicate type	typeof	uriorcurie
+narrative text	typeof	string
+symbol type	typeof	string
+UO:0000105	typeof	string
+frequency value	typeof	string
+UO:0000187	typeof	double
+percentage frequency value	typeof	double
+UO:0010006	typeof	double
+ratio	typeof	double
+quotient	typeof	double
+UO:0000000	exact_mappings	qud:Unit
+unit	exact_mappings	qud:Unit
+UO:0000000	typeof	string
+unit	typeof	string
+time type	typeof	time
+biological sequence	typeof	string
+has attribute	in_subset	samples
+has attribute	close_mappings	OBI:0001927
+has attribute	exact_mappings	SIO:000008
+has attribute	narrow_mappings	OBAN:association_has_subject_property
+has attribute	narrow_mappings	OBAN:association_has_object_property
+has attribute	narrow_mappings	CPT:has_possibly_included_panel_element
+has attribute	narrow_mappings	DRUGBANK:category
+has attribute	narrow_mappings	EFO:is_executed_in
+has attribute	narrow_mappings	HANCESTRO:0301
+has attribute	narrow_mappings	LOINC:has_action_guidance
+has attribute	narrow_mappings	LOINC:has_adjustment
+has attribute	narrow_mappings	LOINC:has_aggregation_view
+has attribute	narrow_mappings	LOINC:has_approach_guidance
+has attribute	narrow_mappings	LOINC:has_divisor
+has attribute	narrow_mappings	LOINC:has_exam
+has attribute	narrow_mappings	LOINC:has_method
+has attribute	narrow_mappings	LOINC:has_modality_subtype
+has attribute	narrow_mappings	LOINC:has_object_guidance
+has attribute	narrow_mappings	LOINC:has_scale
+has attribute	narrow_mappings	LOINC:has_suffix
+has attribute	narrow_mappings	LOINC:has_time_aspect
+has attribute	narrow_mappings	LOINC:has_time_modifier
+has attribute	narrow_mappings	LOINC:has_timing_of
+has attribute	narrow_mappings	NCIT:R88
+has attribute	narrow_mappings	NCIT:eo_disease_has_property_or_attribute
+has attribute	narrow_mappings	NCIT:has_data_element
+has attribute	narrow_mappings	NCIT:has_pharmaceutical_administration_method
+has attribute	narrow_mappings	NCIT:has_pharmaceutical_basic_dose_form
+has attribute	narrow_mappings	NCIT:has_pharmaceutical_intended_site
+has attribute	narrow_mappings	NCIT:has_pharmaceutical_release_characteristics
+has attribute	narrow_mappings	NCIT:has_pharmaceutical_state_of_matter
+has attribute	narrow_mappings	NCIT:has_pharmaceutical_transformation
+has attribute	narrow_mappings	NCIT:is_qualified_by
+has attribute	narrow_mappings	NCIT:qualifier_applies_to
+has attribute	narrow_mappings	NCIT:role_has_domain
+has attribute	narrow_mappings	NCIT:role_has_range
+has attribute	narrow_mappings	INO:0000154
+has attribute	narrow_mappings	HANCESTRO:0308
+has attribute	narrow_mappings	OMIM:has_inheritance_type
+has attribute	narrow_mappings	orphanet:C016
+has attribute	narrow_mappings	orphanet:C017
+has attribute	narrow_mappings	RO:0000053
+has attribute	narrow_mappings	RO:0000086
+has attribute	narrow_mappings	RO:0000087
+has attribute	narrow_mappings	SNOMED:has_access
+has attribute	narrow_mappings	SNOMED:has_clinical_course
+has attribute	narrow_mappings	SNOMED:has_count_of_base_of_active_ingredient
+has attribute	narrow_mappings	SNOMED:has_dose_form_administration_method
+has attribute	narrow_mappings	SNOMED:has_dose_form_release_characteristic
+has attribute	narrow_mappings	SNOMED:has_dose_form_transformation
+has attribute	narrow_mappings	SNOMED:has_finding_context
+has attribute	narrow_mappings	SNOMED:has_finding_informer
+has attribute	narrow_mappings	SNOMED:has_inherent_attribute
+has attribute	narrow_mappings	SNOMED:has_intent
+has attribute	narrow_mappings	SNOMED:has_interpretation
+has attribute	narrow_mappings	SNOMED:has_laterality
+has attribute	narrow_mappings	SNOMED:has_measurement_method
+has attribute	narrow_mappings	SNOMED:has_method
+has attribute	narrow_mappings	SNOMED:has_priority
+has attribute	narrow_mappings	SNOMED:has_procedure_context
+has attribute	narrow_mappings	SNOMED:has_process_duration
+has attribute	narrow_mappings	SNOMED:has_property
+has attribute	narrow_mappings	SNOMED:has_revision_status
+has attribute	narrow_mappings	SNOMED:has_scale_type
+has attribute	narrow_mappings	SNOMED:has_severity
+has attribute	narrow_mappings	SNOMED:has_specimen
+has attribute	narrow_mappings	SNOMED:has_state_of_matter
+has attribute	narrow_mappings	SNOMED:has_subject_relationship_context
+has attribute	narrow_mappings	SNOMED:has_surgical_approach
+has attribute	narrow_mappings	SNOMED:has_technique
+has attribute	narrow_mappings	SNOMED:has_temporal_context
+has attribute	narrow_mappings	SNOMED:has_time_aspect
+has attribute	narrow_mappings	SNOMED:has_units
+has attribute	narrow_mappings	UMLS:has_structural_class
+has attribute	narrow_mappings	UMLS:has_supported_concept_property
+has attribute	narrow_mappings	UMLS:has_supported_concept_relationship
+has attribute	narrow_mappings	UMLS:may_be_qualified_by
+has attribute type	in_subset	samples
+has attribute type	narrow_mappings	LOINC:has_modality_type
+has attribute type	narrow_mappings	LOINC:has_view_type
+has qualitative value	in_subset	samples
+has quantitative value	in_subset	samples
+has quantitative value	exact_mappings	qud:quantityValue
+has quantitative value	narrow_mappings	SNOMED:has_concentration_strength_numerator_value
+has quantitative value	narrow_mappings	SNOMED:has_presentation_strength_denominator_value
+has quantitative value	narrow_mappings	SNOMED:has_presentation_strength_numerator_value
+has numeric value	in_subset	samples
+has numeric value	exact_mappings	qud:quantityValue
+has unit	in_subset	samples
+has unit	close_mappings	EFO:0001697
+has unit	close_mappings	UO-PROPERTY:is_unit_of
+has unit	exact_mappings	qud:unit
+has unit	exact_mappings	IAO:0000039
+has unit	narrow_mappings	SNOMED:has_concentration_strength_denominator_unit
+has unit	narrow_mappings	SNOMED:has_concentration_strength_numerator_unit
+has unit	narrow_mappings	SNOMED:has_presentation_strength_denominator_unit
+has unit	narrow_mappings	SNOMED:has_presentation_strength_numerator_unit
+has unit	narrow_mappings	SNOMED:has_unit_of_presentation
+one-based	is_a	sequence localization attribute
+fully-closed	is_a	sequence localization attribute
+base coordinate	is_a	sequence localization attribute
+id	in_subset	translator_minimal
+id	exact_mappings	AGRKB:primaryId
+id	exact_mappings	gff3:ID
+id	exact_mappings	gpi:DB_Object_ID
+iri	in_subset	translator_minimal
+iri	in_subset	samples
+iri	exact_mappings	WIKIDATA_PROPERTY:P854
+rdf:type	exact_mappings	AGRKB:soTermId
+type	exact_mappings	AGRKB:soTermId
+rdf:type	exact_mappings	gff3:type
+type	exact_mappings	gff3:type
+rdf:type	exact_mappings	gpi:DB_Object_Type
+type	exact_mappings	gpi:DB_Object_Type
+category	in_subset	translator_minimal
+category	is_a	type
+dct:type	values_from	dctypes
+publication type	values_from	dctypes
+dct:type	values_from	fabio
+publication type	values_from	fabio
+dct:type	values_from	MESH_PUB
+publication type	values_from	MESH_PUB
+dct:type	values_from	COAR_RESOURCE
+publication type	values_from	COAR_RESOURCE
+dct:type	values_from	WIKIDATA
+publication type	values_from	WIKIDATA
+rdfs:label	in_subset	translator_minimal
+label	in_subset	translator_minimal
+display name	in_subset	translator_minimal
+title	in_subset	translator_minimal
+name	in_subset	translator_minimal
+rdfs:label	in_subset	samples
+label	in_subset	samples
+display name	in_subset	samples
+title	in_subset	samples
+name	in_subset	samples
+rdfs:label	exact_mappings	gff3:Name
+label	exact_mappings	gff3:Name
+display name	exact_mappings	gff3:Name
+title	exact_mappings	gff3:Name
+name	exact_mappings	gff3:Name
+rdfs:label	exact_mappings	gpi:DB_Object_Name
+label	exact_mappings	gpi:DB_Object_Name
+display name	exact_mappings	gpi:DB_Object_Name
+title	exact_mappings	gpi:DB_Object_Name
+name	exact_mappings	gpi:DB_Object_Name
+rdfs:label	narrow_mappings	dct:title
+label	narrow_mappings	dct:title
+display name	narrow_mappings	dct:title
+title	narrow_mappings	dct:title
+name	narrow_mappings	dct:title
+rdfs:label	narrow_mappings	WIKIDATA_PROPERTY:P1476
+label	narrow_mappings	WIKIDATA_PROPERTY:P1476
+display name	narrow_mappings	WIKIDATA_PROPERTY:P1476
+title	narrow_mappings	WIKIDATA_PROPERTY:P1476
+name	narrow_mappings	WIKIDATA_PROPERTY:P1476
+stoichiometry	is_a	association slot
+reaction direction	narrow_mappings	NCIT:C42677
+reaction direction	is_a	association slot
+reaction balanced	is_a	association slot
+reaction side	is_a	association slot
+symbol	exact_mappings	AGRKB:symbol
+symbol	exact_mappings	gpi:DB_Object_Symbol
+symbol	is_a	node property
+alias	in_subset	translator_minimal
+synonym	in_subset	translator_minimal
+alias	narrow_mappings	skos:altLabel
+synonym	narrow_mappings	skos:altLabel
+alias	narrow_mappings	gff3:Alias
+synonym	narrow_mappings	gff3:Alias
+alias	narrow_mappings	AGRKB:synonyms
+synonym	narrow_mappings	AGRKB:synonyms
+alias	narrow_mappings	gpi:DB_Object_Synonyms
+synonym	narrow_mappings	gpi:DB_Object_Synonyms
+alias	narrow_mappings	HANCESTRO:0330
+synonym	narrow_mappings	HANCESTRO:0330
+alias	narrow_mappings	IAO:0000136
+synonym	narrow_mappings	IAO:0000136
+alias	narrow_mappings	RXNORM:has_tradename
+synonym	narrow_mappings	RXNORM:has_tradename
+alias	is_a	node property
+synonym	is_a	node property
+exact synonym	exact_mappings	oboInOwl:hasExactSynonym
+exact synonym	is_a	synonym
+broad synonym	exact_mappings	oboInOwl:hasBroadSynonym
+broad synonym	is_a	synonym
+narrow synonym	exact_mappings	oboInOwl:hasNarrowSynonym
+narrow synonym	is_a	synonym
+related synonym	exact_mappings	oboInOwl:hasRelatedSynonym
+related synonym	is_a	synonym
+topic	exact_mappings	foaf:topic
+descriptors	exact_mappings	foaf:topic
+has topic	exact_mappings	foaf:topic
+topic	is_a	node property
+descriptors	is_a	node property
+has topic	is_a	node property
+dbxref	in_subset	translator_minimal
+Dbxref	in_subset	translator_minimal
+DbXref	in_subset	translator_minimal
+record_url	in_subset	translator_minimal
+source_record_urls	in_subset	translator_minimal
+xref	in_subset	translator_minimal
+dbxref	narrow_mappings	gff3:Dbxref
+Dbxref	narrow_mappings	gff3:Dbxref
+DbXref	narrow_mappings	gff3:Dbxref
+record_url	narrow_mappings	gff3:Dbxref
+source_record_urls	narrow_mappings	gff3:Dbxref
+xref	narrow_mappings	gff3:Dbxref
+dbxref	narrow_mappings	gpi:DB_Xrefs
+Dbxref	narrow_mappings	gpi:DB_Xrefs
+DbXref	narrow_mappings	gpi:DB_Xrefs
+record_url	narrow_mappings	gpi:DB_Xrefs
+source_record_urls	narrow_mappings	gpi:DB_Xrefs
+xref	narrow_mappings	gpi:DB_Xrefs
+support graphs	in_subset	translator_minimal
+resource id	in_subset	translator_minimal
+resource id	is_a	node property
+resource role	in_subset	translator_minimal
+resource role	is_a	node property
+retrieval source ids	in_subset	translator_minimal
+full name	is_a	node property
+upstream resource ids	is_a	node property
+dct:description	in_subset	translator_minimal
+definition	in_subset	translator_minimal
+description	in_subset	translator_minimal
+dct:description	exact_mappings	IAO:0000115
+definition	exact_mappings	IAO:0000115
+description	exact_mappings	IAO:0000115
+dct:description	exact_mappings	skos:definitions
+definition	exact_mappings	skos:definitions
+description	exact_mappings	skos:definitions
+dct:description	narrow_mappings	gff3:Description
+definition	narrow_mappings	gff3:Description
+description	narrow_mappings	gff3:Description
+GOP:systematic_synonym	is_a	node property
+systematic synonym	is_a	node property
+affiliation	is_a	node property
+address	is_a	node property
+latitude	exact_mappings	wgs:lat
+latitude	is_a	node property
+longitude	exact_mappings	wgs:long
+longitude	is_a	node property
+publication date	exact_mappings	dct:createdOn
+creation date	exact_mappings	dct:createdOn
+publication date	exact_mappings	WIKIDATA_PROPERTY:P577
+creation date	exact_mappings	WIKIDATA_PROPERTY:P577
+publication date	is_a	node property
+creation date	is_a	node property
+update date	is_a	node property
+aggregate statistic	is_a	node property
+has count	exact_mappings	LOINC:has_count
+has count	is_a	aggregate statistic
+has total	is_a	aggregate statistic
+has quotient	is_a	aggregate statistic
+has percentage	is_a	aggregate statistic
+has taxonomic rank	is_a	node property
+has taxonomic rank	mappings	WIKIDATA:P105
+dct:source	is_a	node property
+has dataset	is_a	node property
+source web page	is_a	node property
+source web page	broad_mappings	dct:source
+schema:logo	is_a	node property
+source logo	is_a	node property
+retrieved on	exact_mappings	pav:retrievedOn
+retrieved on	is_a	node property
+version of	exact_mappings	dct:isVersionOf
+version of	is_a	node property
+version	is_a	node property
+version	broad_mappings	pav:version
+version	broad_mappings	owl:versionInfo
+license	exact_mappings	dct:license
+license	narrow_mappings	WIKIDATA_PROPERTY:P275
+license	is_a	node property
+rights	exact_mappings	dct:rights
+rights	is_a	node property
+format	exact_mappings	dct:format
+format	exact_mappings	WIKIDATA_PROPERTY:P2701
+format	is_a	node property
+created with	exact_mappings	pav:createdWith
+created with	is_a	node property
+dcat:downloadURL	is_a	node property
+download url	is_a	node property
+dataset download url	is_a	node property
+distribution download url	exact_mappings	dcat:downloadURL
+distribution download url	is_a	node property
+pav:version	is_a	node property
+ingest date	is_a	node property
+dct:distribution	is_a	node property
+has distribution	is_a	node property
+published in	exact_mappings	WIKIDATA_PROPERTY:P1433
+published in	is_a	node property
+published in	values_from	NLMID
+published in	values_from	issn
+published in	values_from	isbn
+iso abbreviation	exact_mappings	WIKIDATA_PROPERTY:P1160
+iso abbreviation	is_a	node property
+authors	is_a	node property
+volume	exact_mappings	WIKIDATA_PROPERTY:P478
+volume	is_a	node property
+chapter	exact_mappings	WIKIDATA:Q1980247
+chapter	is_a	node property
+issue	exact_mappings	WIKIDATA_PROPERTY:P433
+issue	is_a	node property
+pages	exact_mappings	WIKIDATA_PROPERTY:P304
+pages	is_a	node property
+abstract	exact_mappings	dct:abstract
+summary	exact_mappings	dct:abstract
+abstract	exact_mappings	WIKIDATA:Q333291
+summary	exact_mappings	WIKIDATA:Q333291
+abstract	is_a	node property
+summary	is_a	node property
+keywords	is_a	node property
+mesh terms	exact_mappings	dcid:MeSHTerm
+mesh terms	is_a	node property
+mesh terms	values_from	MESH
+has biological sequence	is_a	node property
+has gene or gene product	is_a	node property
+has gene	is_a	has gene or gene product
+has zygosity	is_a	node property
+has chemical formula	exact_mappings	WIKIDATA_PROPERTY:P274
+has chemical formula	is_a	node property
+is metabolite	exact_mappings	CHEBI:25212
+is metabolite	is_a	node property
+has constituent	is_a	node property
+has drug	is_a	node property
+has device	is_a	node property
+has procedure	is_a	node property
+has receptor	exact_mappings	ExO:0000001
+has receptor	is_a	node property
+has stimulus	exact_mappings	ExO:0000000
+has stressor	exact_mappings	ExO:0000000
+has stimulus	is_a	node property
+has stressor	is_a	node property
+has route	exact_mappings	ExO:0000055
+has route	narrow_mappings	LOINC:has_pharmaceutical_route
+has route	narrow_mappings	SNOMED:has_dose_form_intended_site
+has route	narrow_mappings	SNOMED:has_route_of_administration
+has route	is_a	node property
+population context qualifier	is_a	qualifier
+temporal context qualifier	is_a	qualifier
+temporal interval qualifier	is_a	temporal context qualifier
+is supplement	is_a	node property
+trade name	is_a	node property
+available from	is_a	node property
+is toxic	is_a	node property
+has chemical role	is_a	related to at concept level
+max tolerated dose	is_a	node property
+animal model available from	is_a	node property
+FDA adverse event level	is_a	association slot
+max phase	exact_mappings	NCIT:C172573
+drug regulatory status world wide	exact_mappings	NCIT:C172573
+max phase	narrow_mappings	NCIT:R172
+drug regulatory status world wide	narrow_mappings	NCIT:R172
+max phase	narrow_mappings	NCIT:regimen_has_accepted_use_for_disease
+drug regulatory status world wide	narrow_mappings	NCIT:regimen_has_accepted_use_for_disease
+max phase	narrow_mappings	REPODB:clinically_tested_approved_unknown_phase
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_approved_unknown_phase
+max phase	narrow_mappings	REPODB:clinically_tested_suspended_phase_0
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_suspended_phase_0
+max phase	narrow_mappings	REPODB:clinically_tested_suspended_phase_1
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_suspended_phase_1
+max phase	narrow_mappings	REPODB:clinically_tested_suspended_phase_1_or_phase_2
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_suspended_phase_1_or_phase_2
+max phase	narrow_mappings	REPODB:clinically_tested_suspended_phase_2
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_suspended_phase_2
+max phase	narrow_mappings	REPODB:clinically_tested_suspended_phase_2_or_phase_3
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_suspended_phase_2_or_phase_3
+max phase	narrow_mappings	REPODB:clinically_tested_suspended_phase_3
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_suspended_phase_3
+max phase	narrow_mappings	REPODB:clinically_tested_terminated_phase_0
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_terminated_phase_0
+max phase	narrow_mappings	REPODB:clinically_tested_terminated_phase_1
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_terminated_phase_1
+max phase	narrow_mappings	REPODB:clinically_tested_terminated_phase_1_or_phase_2
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_terminated_phase_1_or_phase_2
+max phase	narrow_mappings	REPODB:clinically_tested_terminated_phase_2
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_terminated_phase_2
+max phase	narrow_mappings	REPODB:clinically_tested_terminated_phase_2_or_phase_3
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_terminated_phase_2_or_phase_3
+max phase	narrow_mappings	REPODB:clinically_tested_terminated_phase_3
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_terminated_phase_3
+max phase	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_0
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_0
+max phase	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_1
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_1
+max phase	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_1_or_phase_2
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_1_or_phase_2
+max phase	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_2
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_2
+max phase	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_2_or_phase_3
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_2_or_phase_3
+max phase	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_3
+drug regulatory status world wide	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_3
+form or variant qualifier	in_subset	translator_minimal
+form or variant qualifier	is_a	qualifier
+aspect qualifier	in_subset	translator_minimal
+aspect qualifier	is_a	qualifier
+derivative qualifier	in_subset	translator_minimal
+derivative qualifier	is_a	qualifier
+part qualifier	in_subset	translator_minimal
+part qualifier	is_a	qualifier
+context qualifier	in_subset	translator_minimal
+context qualifier	is_a	qualifier
+direction qualifier	in_subset	translator_minimal
+direction qualifier	is_a	qualifier
+subject aspect qualifier	in_subset	translator_minimal
+subject aspect qualifier	is_a	aspect qualifier
+subject form or variant qualifier	in_subset	translator_minimal
+subject form or variant qualifier	is_a	form or variant qualifier
+subject part qualifier	in_subset	translator_minimal
+subject part qualifier	is_a	part qualifier
+subject derivative qualifier	in_subset	translator_minimal
+subject derivative qualifier	is_a	derivative qualifier
+subject context qualifier	in_subset	translator_minimal
+subject context qualifier	is_a	context qualifier
+subject direction qualifier	in_subset	translator_minimal
+subject direction qualifier	is_a	direction qualifier
+object aspect qualifier	in_subset	translator_minimal
+object aspect qualifier	is_a	aspect qualifier
+object form or variant qualifier	in_subset	translator_minimal
+object form or variant qualifier	is_a	form or variant qualifier
+object part qualifier	in_subset	translator_minimal
+object part qualifier	is_a	part qualifier
+object derivative qualifier	in_subset	translator_minimal
+object derivative qualifier	is_a	derivative qualifier
+object context qualifier	in_subset	translator_minimal
+object context qualifier	is_a	context qualifier
+object direction qualifier	in_subset	translator_minimal
+object direction qualifier	is_a	direction qualifier
+qualified predicate	is_a	qualifier
+qualifier	in_subset	translator_minimal
+qualifier	is_a	association slot
+statement qualifier	in_subset	translator_minimal
+statement qualifier	is_a	qualifier
+causal mechanism qualifier	in_subset	translator_minimal
+causal mechanism qualifier	is_a	statement qualifier
+anatomical context qualifier	in_subset	translator_minimal
+anatomical context qualifier	is_a	statement qualifier
+species context qualifier	in_subset	translator_minimal
+species context qualifier	is_a	statement qualifier
+qualifiers	is_a	association slot
+frequency qualifier	in_subset	translator_minimal
+frequency qualifier	is_a	qualifier
+severity qualifier	in_subset	translator_minimal
+severity qualifier	is_a	qualifier
+sex qualifier	in_subset	translator_minimal
+sex qualifier	is_a	qualifier
+onset qualifier	in_subset	translator_minimal
+onset qualifier	is_a	qualifier
+clinical modifier qualifier	is_a	association slot
+sequence variant qualifier	is_a	association slot
+quantifier qualifier	narrow_mappings	LOINC:analyzes
+quantifier qualifier	narrow_mappings	LOINC:measured_by
+quantifier qualifier	narrow_mappings	LOINC:property_of
+quantifier qualifier	narrow_mappings	SEMMEDDB:MEASURES
+quantifier qualifier	narrow_mappings	UMLS:measures
+quantifier qualifier	is_a	association slot
+catalyst qualifier	is_a	association slot
+stage qualifier	in_subset	translator_minimal
+stage qualifier	is_a	association slot
+related to	exact_mappings	skos:relatedMatch
+related to	exact_mappings	UMLS:related_to
+related to	narrow_mappings	SEMMEDDB:ASSOCIATED_WITH
+related to	narrow_mappings	SEMMEDDB:compared_with
+related to	narrow_mappings	SEMMEDDB:higher_than
+related to	narrow_mappings	SEMMEDDB:lower_than
+related to	narrow_mappings	BFO:0000054
+related to	narrow_mappings	UBERON_CORE:protects
+related to	narrow_mappings	GOREL:0002005
+related to	narrow_mappings	GOREL:0012006
+related to	narrow_mappings	BTO:related_to
+related to	narrow_mappings	CHEBI:is_conjugate_acid_of
+related to	narrow_mappings	CHEBI:is_conjugate_base_of
+related to	narrow_mappings	CPT:has_add_on_code
+related to	narrow_mappings	CPT:mapped_to
+related to	narrow_mappings	EFO:0006351
+related to	narrow_mappings	FMA:connected_to
+related to	narrow_mappings	FMA:continuous_with
+related to	narrow_mappings	FMA:homonym_of
+related to	narrow_mappings	FMA:related_developmental_entity_of
+related to	narrow_mappings	RO:0002093
+related to	narrow_mappings	RO:0002092
+related to	narrow_mappings	RO:0002084
+related to	narrow_mappings	HCPCS:mapped_to
+related to	narrow_mappings	HMDB:disease
+related to	narrow_mappings	HMDB:has_protein_association
+related to	narrow_mappings	IAO:0000136
+related to	narrow_mappings	LOINC:has_answer
+related to	narrow_mappings	LOINC:has_challenge
+related to	narrow_mappings	LOINC:has_evaluation
+related to	narrow_mappings	LOINC:mapped_to
+related to	narrow_mappings	LOINC:mth_has_expanded_form
+related to	narrow_mappings	MESH:RO
+related to	narrow_mappings	MESH:has_mapping_qualifier
+related to	narrow_mappings	MESH:mapped_to
+related to	narrow_mappings	MONDO:disease_shares_features_of
+related to	narrow_mappings	NCIT:disease_may_have_associated_disease
+related to	narrow_mappings	NCIT:human_disease_maps_to_eo_disease
+related to	narrow_mappings	NCIT:is_abnormal_cell_of_disease
+related to	narrow_mappings	NCIT:is_related_to_endogenous_product
+related to	narrow_mappings	UBERON_NONAMESPACE:connected_to
+related to	narrow_mappings	UBERON_NONAMESPACE:innervated_by
+related to	narrow_mappings	NBO-PROPERTY:is_about
+related to	narrow_mappings	RO:0000053
+related to	narrow_mappings	PATO:reciprocal_of
+related to	narrow_mappings	RO:0000052
+related to	narrow_mappings	RO:0002001
+related to	narrow_mappings	RO:0002002
+related to	narrow_mappings	RO:0002003
+related to	narrow_mappings	RO:0002008
+related to	narrow_mappings	RO:0002134
+related to	narrow_mappings	RO:0002150
+related to	narrow_mappings	RO:0002159
+related to	narrow_mappings	RO:0002176
+related to	narrow_mappings	RO:0002177
+related to	narrow_mappings	RO:0002178
+related to	narrow_mappings	RO:0002179
+related to	narrow_mappings	RO:0002314
+related to	narrow_mappings	RO:0002322
+related to	narrow_mappings	RO:0002328
+related to	narrow_mappings	RO:0002332
+related to	narrow_mappings	RO:0002338
+related to	narrow_mappings	RO:0002339
+related to	narrow_mappings	RO:0002341
+related to	narrow_mappings	RO:0002342
+related to	narrow_mappings	RO:0002344
+related to	narrow_mappings	RO:0002348
+related to	narrow_mappings	RO:0002349
+related to	narrow_mappings	RO:0002356
+related to	narrow_mappings	RO:0002371
+related to	narrow_mappings	RO:0002372
+related to	narrow_mappings	RO:0002373
+related to	narrow_mappings	RO:0002374
+related to	narrow_mappings	RO:0002385
+related to	narrow_mappings	RO:0002387
+related to	narrow_mappings	RO:0002451
+related to	narrow_mappings	RO:0002494
+related to	narrow_mappings	RO:0002495
+related to	narrow_mappings	RO:0002568
+related to	narrow_mappings	RO:0002573
+related to	narrow_mappings	RO:0004026
+related to	narrow_mappings	RO:0004027
+related to	narrow_mappings	RO:0009001
+related to	narrow_mappings	RO:0009004
+related to	narrow_mappings	RXNORM:has_form
+related to	narrow_mappings	RXNORM:reformulated_to
+related to	narrow_mappings	SNOMED:has_associated_morphology
+related to	narrow_mappings	SNOMED:has_associated_procedure
+related to	narrow_mappings	SNOMED:has_direct_morphology
+related to	narrow_mappings	SNOMED:has_disposition
+related to	narrow_mappings	SNOMED:has_indirect_morphology
+related to	narrow_mappings	SNOMED:has_modification
+related to	narrow_mappings	SNOMED:has_procedure_morphology
+related to	narrow_mappings	SNOMED:has_specimen_source_morphology
+related to	narrow_mappings	SNOMED:inheres_in
+related to	narrow_mappings	SNOMED:is_interpreted_by
+related to	narrow_mappings	SNOMED:relative_to_part_of
+related to	narrow_mappings	UBERON:synapsed_by
+related to	narrow_mappings	UMLS:RO
+related to	narrow_mappings	UMLS:RQ
+related to	narrow_mappings	UMLS:class_code_classified_by
+related to	narrow_mappings	UMLS:exhibited_by
+related to	narrow_mappings	UMLS:has_context_binding
+related to	narrow_mappings	UMLS:has_form
+related to	narrow_mappings	UMLS:has_mapping_qualifier
+related to	narrow_mappings	UMLS:larger_than
+related to	narrow_mappings	UMLS:mapped_to
+related to	narrow_mappings	UMLS:owning_section_of
+related to	broad_mappings	owl:topObjectProperty
+related to at concept level	is_a	related to
+related to at instance level	is_a	related to
+associated with	narrow_mappings	RO:0004029
+associated with	narrow_mappings	SNOMEDCT:47429007
+associated with	is_a	related to at instance level
+superclass of	in_subset	translator_minimal
+superclass of	exact_mappings	WIKIDATA:Q66088480
+superclass of	exact_mappings	CHEMBL.MECHANISM:superset_of
+superclass of	exact_mappings	GO:inverse_isa
+superclass of	exact_mappings	RXNORM:inverse_isa
+superclass of	exact_mappings	MESH:inverse_isa
+superclass of	exact_mappings	VANDF:inverse_isa
+superclass of	narrow_mappings	NCIT:cdrh_parent_of
+superclass of	narrow_mappings	NCIT:ctcae_5_parent_of
+superclass of	narrow_mappings	NCIT:subset_includes_concept
+superclass of	narrow_mappings	OMIM:has_manifestation
+superclass of	narrow_mappings	SNOMED:has_basic_dose_form
+superclass of	narrow_mappings	UMLS:RB
+superclass of	is_a	related to at concept level
+subclass of	in_subset	translator_minimal
+subclass of	close_mappings	LOINC:class_of
+subclass of	close_mappings	LOINC:has_class
+subclass of	exact_mappings	rdfs:subClassOf
+subclass of	exact_mappings	SEMMEDDB:ISA
+subclass of	exact_mappings	WIKIDATA_PROPERTY:P279
+subclass of	exact_mappings	CHEMBL.MECHANISM:subset_of
+subclass of	exact_mappings	GO:isa
+subclass of	exact_mappings	MESH:isa
+subclass of	exact_mappings	RXNORM:isa
+subclass of	exact_mappings	VANDF:isa
+subclass of	narrow_mappings	CHEBI:has_parent_hydride
+subclass of	narrow_mappings	LOINC:has_archetype
+subclass of	narrow_mappings	LOINC:has_parent_group
+subclass of	narrow_mappings	LOINC:is_presence_guidance_for
+subclass of	narrow_mappings	NCIT:gene_product_has_chemical_classification
+subclass of	narrow_mappings	NCIT:R36
+subclass of	narrow_mappings	NCIT:R42
+subclass of	narrow_mappings	NCIT:A16
+subclass of	narrow_mappings	NCIT:A11
+subclass of	narrow_mappings	NCIT:A14
+subclass of	narrow_mappings	NCIT:A3
+subclass of	narrow_mappings	NDDF:has_dose_form
+subclass of	narrow_mappings	RXNORM:has_dose_form
+subclass of	narrow_mappings	RXNORM:has_doseformgroup
+subclass of	narrow_mappings	SNOMED:entire_anatomy_structure_of
+subclass of	narrow_mappings	SNOMED:has_dose_form
+subclass of	narrow_mappings	rdfs:subPropertyOf
+subclass of	is_a	related to at concept level
+same as	in_subset	translator_minimal
+same as	close_mappings	owl:equivalentClass
+same as	exact_mappings	owl:sameAs
+same as	exact_mappings	skos:exactMatch
+same as	exact_mappings	WIKIDATA_PROPERTY:P2888
+same as	exact_mappings	CHEMBL.MECHANISM:equivalent_to
+same as	exact_mappings	MONDO:equivalentTo
+same as	narrow_mappings	DRUGBANK:external-identifier
+same as	is_a	exact match
+close match	in_subset	translator_minimal
+close match	exact_mappings	skos:closeMatch
+close match	exact_mappings	SEMMEDDB:same_as
+close match	narrow_mappings	CHEBI:is_enantiomer_of
+close match	narrow_mappings	CHEBI:is_tautomer_of
+close match	narrow_mappings	MEDDRA:classified_as
+close match	narrow_mappings	oboInOwl:hasDbXref
+close match	narrow_mappings	RXNORM:has_quantified_form
+close match	narrow_mappings	UMLS:SY
+close match	is_a	related to at concept level
+exact match	in_subset	translator_minimal
+exact match	exact_mappings	skos:exactMatch
+exact match	exact_mappings	WIKIDATA:Q39893449
+exact match	exact_mappings	WIKIDATA:P2888
+exact match	is_a	close match
+broad match	in_subset	translator_minimal
+broad match	exact_mappings	skos:broadMatch
+broad match	exact_mappings	WIKIDATA:Q39894595
+broad match	is_a	related to at concept level
+narrow match	in_subset	translator_minimal
+narrow match	exact_mappings	skos:narrowMatch
+narrow match	exact_mappings	WIKIDATA:Q39893967
+narrow match	is_a	related to at concept level
+narrow match	inverse	broad match
+member of	in_subset	translator_minimal
+member of	close_mappings	skos:member
+member of	exact_mappings	RO:0002350
+member of	is_a	related to at concept level
+member of	inverse	has member
+has member	in_subset	translator_minimal
+has member	exact_mappings	RO:0002351
+has member	exact_mappings	skos:member
+has member	is_a	related to at concept level
+opposite of	exact_mappings	RO:0002604
+opposite of	is_a	related to at instance level
+associated with likelihood of	is_a	associated with
+likelihood associated with	is_a	associated with
+likelihood associated with	inverse	associated with likelihood of
+associated with increased likelihood of	is_a	associated with likelihood of
+increased likelihood associated with	is_a	likelihood associated with
+increased likelihood associated with	inverse	associated with increased likelihood of
+associated with decreased likelihood of	is_a	associated with likelihood of
+decreased likelihood associated with	is_a	likelihood associated with
+decreased likelihood associated with	inverse	associated with decreased likelihood of
+target for	is_a	related to at instance level
+has target	is_a	related to at instance level
+has target	inverse	target for
+active in	exact_mappings	RO:0002432
+active in	is_a	related to at instance level
+has active component	is_a	related to at instance level
+has active component	inverse	active in
+acts upstream of	exact_mappings	RO:0002263
+acts upstream of	is_a	related to at instance level
+has upstream actor	is_a	related to at instance level
+has upstream actor	inverse	acts upstream of
+acts upstream of positive effect	exact_mappings	RO:0004034
+acts upstream of positive effect	is_a	acts upstream of
+has positive upstream actor	is_a	has upstream actor
+has positive upstream actor	inverse	acts upstream of positive effect
+acts upstream of negative effect	exact_mappings	RO:0004035
+acts upstream of negative effect	is_a	acts upstream of
+has negative upstream actor	is_a	has upstream actor
+has negative upstream actor	inverse	acts upstream of negative effect
+acts upstream of or within	exact_mappings	RO:0002264
+acts upstream of or within	is_a	acts upstream of
+has upstream or within actor	is_a	has upstream actor
+has upstream or within actor	inverse	acts upstream of or within
+acts upstream of or within positive effect	exact_mappings	RO:0004032
+acts upstream of or within positive effect	is_a	acts upstream of or within
+has positive upstream or within actor	is_a	has upstream or within actor
+has positive upstream or within actor	inverse	acts upstream of or within positive effect
+acts upstream of or within negative effect	exact_mappings	RO:0004033
+acts upstream of or within negative effect	is_a	acts upstream of or within
+has negative upstream or within actor	is_a	has upstream or within actor
+has negative upstream or within actor	inverse	acts upstream of or within negative effect
+mentions	exact_mappings	IAO:0000142
+mentions	narrow_mappings	SIO:000628
+mentions	is_a	related to at instance level
+mentioned by	is_a	related to at instance level
+mentioned by	inverse	mentions
+contributor	exact_mappings	dct:contributor
+contributor	is_a	related to at instance level
+has contributor	is_a	related to at instance level
+has contributor	inverse	contributor
+provider	is_a	contributor
+has provider	is_a	has contributor
+has provider	inverse	provider
+publisher	exact_mappings	dct:publisher
+publisher	exact_mappings	WIKIDATA_PROPERTY:P123
+publisher	is_a	contributor
+has publisher	is_a	has contributor
+has publisher	inverse	publisher
+editor	exact_mappings	WIKIDATA_PROPERTY:P98
+editor	is_a	contributor
+has editor	is_a	has contributor
+has editor	inverse	editor
+author	exact_mappings	dct:creator
+author	exact_mappings	WIKIDATA_PROPERTY:P50
+author	is_a	contributor
+has author	is_a	has contributor
+has author	inverse	author
+was assayed against	is_a	related to at instance level
+assesses	is_a	related to at instance level
+is assessed by	is_a	related to at instance level
+is assessed by	inverse	assesses
+interacts with	in_subset	translator_minimal
+interacts with	exact_mappings	SEMMEDDB:INTERACTS_WITH
+interacts with	is_a	related to at instance level
+physically interacts with	in_subset	translator_minimal
+physically interacts with	close_mappings	CHEMBL.MECHANISM:binding_agent
+physically interacts with	close_mappings	CHEMBL.MECHANISM:chelating_agent
+physically interacts with	close_mappings	CHEMBL.MECHANISM:cross-linking_agent
+physically interacts with	close_mappings	CHEMBL.MECHANISM:oxidative_enzyme
+physically interacts with	close_mappings	CHEMBL.MECHANISM:sequestering_agent
+physically interacts with	close_mappings	CHEMBL.MECHANISM:substrate
+physically interacts with	close_mappings	DRUGBANK:target
+physically interacts with	narrow_mappings	DRUGBANK:drug-interaction
+physically interacts with	narrow_mappings	FMA:adheres_to
+physically interacts with	narrow_mappings	NCIT:A7
+physically interacts with	narrow_mappings	PR:non-covalently_bound_to
+physically interacts with	is_a	interacts with
+physically interacts with	broad_mappings	WIKIDATA_PROPERTY:P129
+physically interacts with	mixins	interacts with
+directly physically interacts with	exact_mappings	RO:0002436
+directly physically interacts with	narrow_mappings	PHAROS:drug_targets
+directly physically interacts with	narrow_mappings	DRUGBANK:chelator
+directly physically interacts with	narrow_mappings	CTD:affects_binding
+directly physically interacts with	narrow_mappings	DGIdb:cofactor
+directly physically interacts with	is_a	physically interacts with
+directly physically interacts with	broad_mappings	SIO:000203
+directly physically interacts with	broad_mappings	RO:0002578
+binds	close_mappings	DGIdb:binder
+binds	is_a	directly physically interacts with
+indirectly physically interacts with	is_a	physically interacts with
+genetically interacts with	in_subset	translator_minimal
+genetically interacts with	exact_mappings	RO:0002435
+genetically interacts with	is_a	interacts with
+gene_fusion_with	in_subset	translator_minimal
+gene_fusion_with	is_a	genetically interacts with
+genetic_neighborhood_of	in_subset	translator_minimal
+genetic_neighborhood_of	is_a	genetically interacts with
+affects	in_subset	translator_minimal
+affects	exact_mappings	SEMMEDDB:AFFECTS
+affects	exact_mappings	DGIdb:affects
+affects	narrow_mappings	SEMMEDDB:ADMINISTERED_TO
+affects	narrow_mappings	CTD:prediction_hypothesis
+affects	narrow_mappings	GOREL:0001006
+affects	narrow_mappings	CTD:inferred
+affects	narrow_mappings	UPHENO:0000001
+affects	narrow_mappings	RO:0002263
+affects	narrow_mappings	RO:0002264
+affects	narrow_mappings	NCIT:R158
+affects	narrow_mappings	NCIT:R160
+affects	narrow_mappings	NCIT:R30
+affects	narrow_mappings	NCIT:R150
+affects	narrow_mappings	NCIT:R72
+affects	narrow_mappings	NCIT:R146
+affects	narrow_mappings	NCIT:R124
+affects	narrow_mappings	NCIT:R173
+affects	narrow_mappings	NCIT:R100
+affects	narrow_mappings	NCIT:R102
+affects	narrow_mappings	NCIT:R101
+affects	narrow_mappings	NCIT:R113
+affects	narrow_mappings	NCIT:R23
+affects	narrow_mappings	NCIT:R25
+affects	narrow_mappings	NCIT:gene_mapped_to_disease
+affects	narrow_mappings	NCIT:R133
+affects	narrow_mappings	RO:0002343
+affects	narrow_mappings	RO:0002355
+affects	narrow_mappings	RO:0002591
+affects	narrow_mappings	RO:0002592
+affects	narrow_mappings	RO:0012003
+affects	narrow_mappings	SNOMED:has_pathological_process
+affects	narrow_mappings	UBERGRAPH:is_increase_of
+affects	narrow_mappings	UBERGRAPH:is_decrease_of
+affects	is_a	related to at instance level
+affects	related_mappings	DRUGBANK:pathway
+affected by	is_a	related to at instance level
+affected by	inverse	affects
+associated with sensitivity to	narrow_mappings	SNOMEDCT:418038007
+associated with sensitivity to	is_a	associated with
+associated with sensitivity to	broad_mappings	PATO:0000085
+sensitivity associated with	is_a	associated with
+sensitivity associated with	inverse	associated with sensitivity to
+associated with resistance to	is_a	associated with
+resistance associated with	is_a	associated with
+resistance associated with	inverse	associated with resistance to
+diagnoses	close_mappings	NCIT:C15220
+diagnoses	close_mappings	SIO:001331
+diagnoses	exact_mappings	DrugCentral:5271
+diagnoses	exact_mappings	SEMMEDDB:DIAGNOSES
+diagnoses	is_a	related to at instance level
+is diagnosed by	is_a	related to at instance level
+is diagnosed by	inverse	diagnoses
+increases amount or activity of	is_a	related to at instance level
+amount or activity increased by	is_a	related to at instance level
+amount or activity increased by	inverse	increases amount or activity of
+decreases amount or activity of	is_a	related to at instance level
+amount or activity decreased by	is_a	related to at instance level
+amount or activity decreased by	inverse	decreases amount or activity of
+chemical role mixin	exact_mappings	CHEBI:51086
+biological role mixin	narrow_mappings	CHEBI:24432
+affects response to	in_subset	translator_minimal
+affects response to	exact_mappings	CTD:affects_response_to
+affects response to	is_a	affects
+affects response to	inverse	response affected by
+response affected by	in_subset	translator_minimal
+response affected by	is_a	affected by
+increases response to	in_subset	translator_minimal
+increases response to	exact_mappings	CTD:increases_response_to
+increases response to	is_a	affects response to
+response increased by	in_subset	translator_minimal
+response increased by	is_a	response affected by
+response increased by	inverse	increases response to
+decreases response to	in_subset	translator_minimal
+decreases response to	exact_mappings	CTD:decreases_response_to
+decreases response to	narrow_mappings	CTD:decreases_response_to_substance
+decreases response to	is_a	affects response to
+response decreased by	in_subset	translator_minimal
+response decreased by	is_a	response affected by
+response decreased by	inverse	decreases response to
+regulates	exact_mappings	RO:0002448
+regulates	is_a	affects
+regulates	broad_mappings	WIKIDATA_PROPERTY:P128
+regulates	broad_mappings	CHEMBL.MECHANISM:modulator
+regulates	broad_mappings	RO:0002295
+regulates	broad_mappings	RO:0002332
+regulates	broad_mappings	RO:0002448
+regulates	mixins	interacts with
+regulated by	is_a	affected by
+regulated by	inverse	regulates
+disease causes disruption of	in_subset	translator_minimal
+disrupts	in_subset	translator_minimal
+disease causes disruption of	exact_mappings	SEMMEDDB:DISRUPTS
+disrupts	exact_mappings	SEMMEDDB:DISRUPTS
+disease causes disruption of	exact_mappings	CHEMBL.MECHANISM:disrupting_agent
+disrupts	exact_mappings	CHEMBL.MECHANISM:disrupting_agent
+disease causes disruption of	narrow_mappings	RO:0004024
+disrupts	narrow_mappings	RO:0004024
+disease causes disruption of	narrow_mappings	RO:0004025
+disrupts	narrow_mappings	RO:0004025
+disease causes disruption of	is_a	affects
+disrupts	is_a	affects
+disrupted by	is_a	affected by
+disrupted by	inverse	disrupts
+gene product of	in_subset	translator_minimal
+gene product of	exact_mappings	RO:0002204
+gene product of	is_a	related to at instance level
+gene product of	inverse	has gene product
+has gene product	in_subset	translator_minimal
+has gene product	close_mappings	PR:has_gene_template
+has gene product	exact_mappings	RO:0002205
+has gene product	exact_mappings	WIKIDATA_PROPERTY:P688
+has gene product	exact_mappings	NCIT:gene_encodes_gene_product
+has gene product	narrow_mappings	NCIT:R178
+has gene product	is_a	related to at instance level
+has gene product	inverse	gene product of
+transcribed to	exact_mappings	RO:0002511
+transcribed to	exact_mappings	SIO:010080
+transcribed to	is_a	related to at instance level
+transcribed to	inverse	transcribed from
+transcribed from	exact_mappings	RO:0002510
+transcribed from	exact_mappings	SIO:010081
+transcribed from	is_a	related to at instance level
+transcribed from	inverse	transcribed to
+translates to	close_mappings	RO:0002513
+translates to	close_mappings	SIO:010082
+translates to	is_a	related to at instance level
+translates to	inverse	translation of
+translation of	close_mappings	RO:0002512
+translation of	close_mappings	SIO:010083
+translation of	is_a	related to at instance level
+translation of	inverse	translates to
+in homology relationship with	in_subset	translator_minimal
+homologous to	in_subset	translator_minimal
+in homology relationship with	exact_mappings	RO:HOM0000001
+homologous to	exact_mappings	RO:HOM0000001
+in homology relationship with	exact_mappings	SIO:010302
+homologous to	exact_mappings	SIO:010302
+in homology relationship with	narrow_mappings	UBERON_CORE:sexually_homologous_to
+homologous to	narrow_mappings	UBERON_CORE:sexually_homologous_to
+in homology relationship with	is_a	similar to
+homologous to	is_a	similar to
+paralogous to	in_subset	translator_minimal
+paralogous to	exact_mappings	RO:HOM0000011
+paralogous to	is_a	homologous to
+orthologous to	in_subset	translator_minimal
+orthologous to	exact_mappings	RO:HOM0000017
+orthologous to	exact_mappings	WIKIDATA_PROPERTY:P684
+orthologous to	is_a	homologous to
+xenologous to	in_subset	translator_minimal
+xenologous to	exact_mappings	RO:HOM0000018
+xenologous to	is_a	homologous to
+coexists with	in_subset	translator_minimal
+coexists with	exact_mappings	SEMMEDDB:COEXISTS_WITH
+coexists with	narrow_mappings	BSPO:0000096
+coexists with	narrow_mappings	BSPO:0000097
+coexists with	narrow_mappings	BSPO:0000098
+coexists with	narrow_mappings	BSPO:0000099
+coexists with	narrow_mappings	BSPO:0000100
+coexists with	narrow_mappings	BSPO:0000102
+coexists with	narrow_mappings	BSPO:0000104
+coexists with	narrow_mappings	BSPO:0000110
+coexists with	narrow_mappings	BSPO:0000113
+coexists with	narrow_mappings	BSPO:0015001
+coexists with	narrow_mappings	BSPO:0015002
+coexists with	narrow_mappings	BSPO:0015003
+coexists with	narrow_mappings	BSPO:0015005
+coexists with	narrow_mappings	BSPO:0015006
+coexists with	narrow_mappings	BSPO:0015007
+coexists with	narrow_mappings	BSPO:0015008
+coexists with	narrow_mappings	BSPO:0015009
+coexists with	narrow_mappings	BSPO:0015012
+coexists with	narrow_mappings	BSPO:0015014
+coexists with	narrow_mappings	BSPO:parallel_to
+coexists with	narrow_mappings	UBERON_CORE:anastomoses_with
+coexists with	narrow_mappings	UBERON_CORE:anteriorly_connected_to
+coexists with	narrow_mappings	UBERON_CORE:posteriorly_connected_to
+coexists with	narrow_mappings	UBERON_CORE:channel_for
+coexists with	narrow_mappings	UBERON_CORE:channels_from
+coexists with	narrow_mappings	UBERON_CORE:channels_into
+coexists with	narrow_mappings	UBERON_CORE:conduit_for
+coexists with	narrow_mappings	UBERON_CORE:distally_connected_to
+coexists with	narrow_mappings	UBERON_CORE:extends_fibers_into
+coexists with	narrow_mappings	UBERON_CORE:filtered_through
+coexists with	narrow_mappings	UBERON_CORE:indirectly_supplies
+coexists with	narrow_mappings	UBERON_CORE:proximally_connected_to
+coexists with	narrow_mappings	UBERON_CORE:synapsed_by
+coexists with	narrow_mappings	UBERON_CORE:transitively_anteriorly_connected_to
+coexists with	narrow_mappings	UBERON_CORE:transitively_connected_to
+coexists with	narrow_mappings	UBERON_CORE:transitively_distally_connected_to
+coexists with	narrow_mappings	UBERON_CORE:transitively_proximally_connected_to
+coexists with	narrow_mappings	ENVO:01001307
+coexists with	narrow_mappings	FMA:adjacent_to
+coexists with	narrow_mappings	FMA:afferent_to
+coexists with	narrow_mappings	FMA:anterior_to
+coexists with	narrow_mappings	FMA:anteroinferior_to
+coexists with	narrow_mappings	FMA:anterolateral_to
+coexists with	narrow_mappings	FMA:anteromedial_to
+coexists with	narrow_mappings	FMA:anterosuperior_to
+coexists with	narrow_mappings	FMA:arterial_supply_of
+coexists with	narrow_mappings	FMA:has_arterial_supply
+coexists with	narrow_mappings	FMA:articulates_with
+coexists with	narrow_mappings	FMA:attaches_to
+coexists with	narrow_mappings	FMA:bounded_by
+coexists with	narrow_mappings	FMA:bounds
+coexists with	narrow_mappings	FMA:branch_of
+coexists with	narrow_mappings	FMA:connection_type_of
+coexists with	narrow_mappings	FMA:continuation_branch_of
+coexists with	narrow_mappings	FMA:continuous_distally_with
+coexists with	narrow_mappings	FMA:continuous_proximally_with
+coexists with	narrow_mappings	FMA:corresponds_to
+coexists with	narrow_mappings	FMA:development_type_of
+coexists with	narrow_mappings	FMA:developmental_stage_of
+coexists with	narrow_mappings	FMA:direct_cell_shape_of
+coexists with	narrow_mappings	FMA:direct_left_of
+coexists with	narrow_mappings	FMA:direct_right_of
+coexists with	narrow_mappings	FMA:distal_to
+coexists with	narrow_mappings	FMA:drains_into
+coexists with	narrow_mappings	FMA:efferent_to
+coexists with	narrow_mappings	FMA:external_to
+coexists with	narrow_mappings	FMA:formed_by
+coexists with	narrow_mappings	FMA:forms
+coexists with	narrow_mappings	FMA:full_grown_phenotype_of
+coexists with	narrow_mappings	FMA:has_full_grown_phenotype
+coexists with	narrow_mappings	FMA:fuses_with
+coexists with	narrow_mappings	FMA:fusion_of
+coexists with	narrow_mappings	FMA:has_fusion
+coexists with	narrow_mappings	FMA:germ_origin_of
+coexists with	narrow_mappings	FMA:has_germ_origin
+coexists with	narrow_mappings	FMA:has_adherent
+coexists with	narrow_mappings	FMA:has_branch
+coexists with	narrow_mappings	FMA:has_connection_type
+coexists with	narrow_mappings	FMA:has_continuation_branch
+coexists with	narrow_mappings	FMA:has_development_type
+coexists with	narrow_mappings	FMA:has_developmental_stage
+coexists with	narrow_mappings	FMA:has_direct_cell_shape
+coexists with	narrow_mappings	FMA:has_inherent_3d_shape
+coexists with	narrow_mappings	FMA:has_insertion
+coexists with	narrow_mappings	FMA:has_lymphatic_drainage
+coexists with	narrow_mappings	FMA:has_nerve_supply
+coexists with	narrow_mappings	FMA:has_observed_anatomical_entity
+coexists with	narrow_mappings	FMA:has_origin
+coexists with	narrow_mappings	FMA:has_primary_segmental_supply
+coexists with	narrow_mappings	FMA:has_projection
+coexists with	narrow_mappings	FMA:has_regional_part
+coexists with	narrow_mappings	FMA:has_related_developmental_entity
+coexists with	narrow_mappings	FMA:has_secondary_segmental_supply
+coexists with	narrow_mappings	FMA:has_segmental_composition
+coexists with	narrow_mappings	FMA:has_segmental_supply
+coexists with	narrow_mappings	FMA:has_tributary
+coexists with	narrow_mappings	FMA:has_venous_drainage
+coexists with	narrow_mappings	FMA:inferior_to
+coexists with	narrow_mappings	FMA:inferolateral_to
+coexists with	narrow_mappings	FMA:inferomedial_to
+coexists with	narrow_mappings	FMA:inherent_3d_shape_of
+coexists with	narrow_mappings	FMA:insertion_of
+coexists with	narrow_mappings	FMA:internal_to
+coexists with	narrow_mappings	FMA:lateral_to
+coexists with	narrow_mappings	FMA:left_lateral_to
+coexists with	narrow_mappings	FMA:left_medial_to
+coexists with	narrow_mappings	FMA:lymphatic_drainage_of
+coexists with	narrow_mappings	FMA:matures_from
+coexists with	narrow_mappings	FMA:matures_into
+coexists with	narrow_mappings	FMA:medial_to
+coexists with	narrow_mappings	FMA:merges_with
+coexists with	narrow_mappings	FMA:nerve_supply_of
+coexists with	narrow_mappings	FMA:origin_of
+coexists with	narrow_mappings	FMA:posterior_to
+coexists with	narrow_mappings	FMA:posteroinferior_to
+coexists with	narrow_mappings	FMA:posterolateral_to
+coexists with	narrow_mappings	FMA:posteromedial_to
+coexists with	narrow_mappings	FMA:posterosuperior_to
+coexists with	narrow_mappings	FMA:primary_segmental_supply_of
+coexists with	narrow_mappings	FMA:projects_from
+coexists with	narrow_mappings	FMA:projects_to
+coexists with	narrow_mappings	FMA:proximal_to
+coexists with	narrow_mappings	FMA:receives_attachment_from
+coexists with	narrow_mappings	FMA:receives_drainage_from
+coexists with	narrow_mappings	FMA:receives_input_from
+coexists with	narrow_mappings	FMA:receives_projection
+coexists with	narrow_mappings	FMA:related_part
+coexists with	narrow_mappings	FMA:right_lateral_to
+coexists with	narrow_mappings	FMA:right_medial_to
+coexists with	narrow_mappings	FMA:secondary_segmental_supply_of
+coexists with	narrow_mappings	FMA:segmental_composition_of
+coexists with	narrow_mappings	FMA:segmental_supply_of
+coexists with	narrow_mappings	FMA:sends_output_to
+coexists with	narrow_mappings	FMA:superior_to
+coexists with	narrow_mappings	FMA:superolateral_to
+coexists with	narrow_mappings	FMA:superomedial_to
+coexists with	narrow_mappings	FMA:surrounded_by
+coexists with	narrow_mappings	FMA:surrounds
+coexists with	narrow_mappings	FMA:tributary_of
+coexists with	narrow_mappings	FMA:venous_drainage_of
+coexists with	narrow_mappings	LOINC:has_lateral_anatomic_location
+coexists with	narrow_mappings	LOINC:has_lateral_location_presence
+coexists with	narrow_mappings	UBERON_NONAMESPACE:distally_connected_to
+coexists with	narrow_mappings	UBERON_NONAMESPACE:subdivision_of
+coexists with	narrow_mappings	RO:0002219
+coexists with	narrow_mappings	RO:0002220
+coexists with	narrow_mappings	RO:0002221
+coexists with	narrow_mappings	SO:has_origin
+coexists with	narrow_mappings	UBERON:anastomoses_with
+coexists with	narrow_mappings	UBERON:anteriorly_connected_to
+coexists with	narrow_mappings	UBERON:channel_for
+coexists with	narrow_mappings	UBERON:channels_from
+coexists with	narrow_mappings	UBERON:channels_into
+coexists with	narrow_mappings	UBERON:conduit_for
+coexists with	narrow_mappings	UBERON:distally_connected_to
+coexists with	narrow_mappings	UBERON:existence_starts_and_ends_during
+coexists with	narrow_mappings	UBERON:extends_fibers_into
+coexists with	narrow_mappings	UBERON:filtered_through
+coexists with	narrow_mappings	UBERON:in_central_side_of
+coexists with	narrow_mappings	UBERON:in_innermost_side_of
+coexists with	narrow_mappings	UBERON:in_outermost_side_of
+coexists with	narrow_mappings	UBERON:indirectly_supplies
+coexists with	narrow_mappings	UBERON:posteriorly_connected_to
+coexists with	narrow_mappings	UBERON:protects
+coexists with	narrow_mappings	UBERON:proximally_connected_to
+coexists with	narrow_mappings	UBERON:sexually_homologous_to
+coexists with	is_a	related to at instance level
+in pathway with	in_subset	translator_minimal
+in pathway with	is_a	coexists with
+in pathway with	related_mappings	SIO:010532
+in complex with	in_subset	translator_minimal
+in complex with	is_a	coexists with
+in complex with	broad_mappings	SIO:010285
+in complex with	related_mappings	SIO:010497
+in cell population with	in_subset	translator_minimal
+in cell population with	is_a	coexists with
+colocalizes with	in_subset	translator_minimal
+colocalizes with	exact_mappings	RO:0002325
+colocalizes with	is_a	coexists with
+genetic association	is_a	associated with
+genetically associated with	in_subset	translator_minimal
+genetically associated with	exact_mappings	WIKIDATA_PROPERTY:P2293
+genetically associated with	is_a	associated with
+gene associated with condition	in_subset	translator_minimal
+gene associated with condition	narrow_mappings	NCIT:R38
+gene associated with condition	narrow_mappings	NCIT:R175
+gene associated with condition	narrow_mappings	NCIT:R48
+gene associated with condition	is_a	genetically associated with
+gene associated with condition	broad_mappings	GENO:0000840
+gene associated with condition	broad_mappings	GENO:0000841
+disease associated with gene	in_subset	translator_minimal
+condition associated with gene	in_subset	translator_minimal
+disease associated with gene	narrow_mappings	NCIT:R176
+condition associated with gene	narrow_mappings	NCIT:R176
+disease associated with gene	is_a	genetically associated with
+condition associated with gene	is_a	genetically associated with
+disease associated with gene	inverse	gene associated with condition
+condition associated with gene	inverse	gene associated with condition
+affects risk for	in_subset	translator_minimal
+affects risk for	is_a	related to at instance level
+risk affected by	is_a	related to at instance level
+risk affected by	inverse	affects risk for
+predisposes	in_subset	translator_minimal
+predisposes	exact_mappings	SEMMEDDB:PREDISPOSES
+predisposes	is_a	affects risk for
+has predisposing factor	in_subset	translator_minimal
+has predisposing factor	is_a	risk affected by
+has predisposing factor	inverse	predisposes
+contributes to	in_subset	translator_minimal
+contributes to	close_mappings	IDO:0000664
+contributes to	exact_mappings	RO:0002326
+contributes to	narrow_mappings	CTD:marker_mechanism
+contributes to	narrow_mappings	MONDO:predisposes_towards
+contributes to	narrow_mappings	RO:0002255
+contributes to	narrow_mappings	RO:0003304
+contributes to	is_a	related to at instance level
+contribution from	in_subset	translator_minimal
+contribution from	is_a	related to at instance level
+contribution from	inverse	contributes to
+causes	in_subset	translator_minimal
+causes	exact_mappings	SEMMEDDB:CAUSES
+causes	exact_mappings	WIKIDATA_PROPERTY:P1542
+causes	exact_mappings	SNOMED:cause_of
+causes	exact_mappings	RO:0003303
+causes	narrow_mappings	MONDO:disease_triggers
+causes	narrow_mappings	GOREL:0000040
+causes	narrow_mappings	MONDO:disease_causes_feature
+causes	narrow_mappings	NCIT:allele_has_abnormality
+causes	narrow_mappings	NCIT:biological_process_has_result_biological_process
+causes	narrow_mappings	NCIT:chemical_or_drug_has_physiologic_effect
+causes	narrow_mappings	NCIT:chemical_or_drug_initiates_biological_process
+causes	narrow_mappings	NCIT:process_initiates_biological_process
+causes	narrow_mappings	NCIT:chromosome_mapped_to_disease
+causes	narrow_mappings	NCIT:disease_has_normal_tissue_origin
+causes	narrow_mappings	NBO-PROPERTY:in_response_to
+causes	narrow_mappings	orphanet:317343
+causes	narrow_mappings	orphanet:317344
+causes	narrow_mappings	orphanet:317346
+causes	narrow_mappings	orphanet:410295
+causes	narrow_mappings	orphanet:410296
+causes	narrow_mappings	RO:0002256
+causes	narrow_mappings	RO:0002315
+causes	narrow_mappings	RO:0002507
+causes	narrow_mappings	RO:0002509
+causes	narrow_mappings	RO:0004001
+causes	narrow_mappings	SNOMED:causative_agent_of
+causes	narrow_mappings	SNOMED:has_realization
+causes	narrow_mappings	UMLS:has_physiologic_effect
+causes	is_a	contributes to
+causes	broad_mappings	RO:0002410
+causes	broad_mappings	RO:0002506
+disease caused by disruption of	in_subset	translator_minimal
+disease has basis in dysfunction of	in_subset	translator_minimal
+realized in response to	in_subset	translator_minimal
+realized in response to stimulus	in_subset	translator_minimal
+caused by	in_subset	translator_minimal
+disease caused by disruption of	exact_mappings	WIKIDATA_PROPERTY:P828
+disease has basis in dysfunction of	exact_mappings	WIKIDATA_PROPERTY:P828
+realized in response to	exact_mappings	WIKIDATA_PROPERTY:P828
+realized in response to stimulus	exact_mappings	WIKIDATA_PROPERTY:P828
+caused by	exact_mappings	WIKIDATA_PROPERTY:P828
+disease caused by disruption of	narrow_mappings	RO:0001022
+disease has basis in dysfunction of	narrow_mappings	RO:0001022
+realized in response to	narrow_mappings	RO:0001022
+realized in response to stimulus	narrow_mappings	RO:0001022
+caused by	narrow_mappings	RO:0001022
+disease caused by disruption of	narrow_mappings	RO:0002608
+disease has basis in dysfunction of	narrow_mappings	RO:0002608
+realized in response to	narrow_mappings	RO:0002608
+realized in response to stimulus	narrow_mappings	RO:0002608
+caused by	narrow_mappings	RO:0002608
+disease caused by disruption of	narrow_mappings	RO:0004019
+disease has basis in dysfunction of	narrow_mappings	RO:0004019
+realized in response to	narrow_mappings	RO:0004019
+realized in response to stimulus	narrow_mappings	RO:0004019
+caused by	narrow_mappings	RO:0004019
+disease caused by disruption of	narrow_mappings	RO:0004020
+disease has basis in dysfunction of	narrow_mappings	RO:0004020
+realized in response to	narrow_mappings	RO:0004020
+realized in response to stimulus	narrow_mappings	RO:0004020
+caused by	narrow_mappings	RO:0004020
+disease caused by disruption of	narrow_mappings	RO:0004028
+disease has basis in dysfunction of	narrow_mappings	RO:0004028
+realized in response to	narrow_mappings	RO:0004028
+realized in response to stimulus	narrow_mappings	RO:0004028
+caused by	narrow_mappings	RO:0004028
+disease caused by disruption of	narrow_mappings	RO:0009501
+disease has basis in dysfunction of	narrow_mappings	RO:0009501
+realized in response to	narrow_mappings	RO:0009501
+realized in response to stimulus	narrow_mappings	RO:0009501
+caused by	narrow_mappings	RO:0009501
+disease caused by disruption of	is_a	contribution from
+disease has basis in dysfunction of	is_a	contribution from
+realized in response to	is_a	contribution from
+realized in response to stimulus	is_a	contribution from
+caused by	is_a	contribution from
+disease caused by disruption of	inverse	causes
+disease has basis in dysfunction of	inverse	causes
+realized in response to	inverse	causes
+realized in response to stimulus	inverse	causes
+caused by	inverse	causes
+ameliorates	exact_mappings	RO:0003307
+ameliorates	is_a	affects
+is ameliorated by	is_a	affected by
+is ameliorated by	inverse	ameliorates
+exacerbates	exact_mappings	RO:0003309
+exacerbates	is_a	affects
+exacerbates	broad_mappings	SEMMEDDB:COMPLICATES
+is exacerbated by	in_subset	translator_minimal
+is exacerbated by	is_a	affected by
+is exacerbated by	inverse	exacerbates
+is substance that treats	in_subset	translator_minimal
+indicated for	in_subset	translator_minimal
+treats	in_subset	translator_minimal
+is substance that treats	exact_mappings	DRUGBANK:treats
+indicated for	exact_mappings	DRUGBANK:treats
+treats	exact_mappings	DRUGBANK:treats
+is substance that treats	exact_mappings	SEMMEDDB:TREATS
+indicated for	exact_mappings	SEMMEDDB:TREATS
+treats	exact_mappings	SEMMEDDB:TREATS
+is substance that treats	exact_mappings	WIKIDATA_PROPERTY:P2175
+indicated for	exact_mappings	WIKIDATA_PROPERTY:P2175
+treats	exact_mappings	WIKIDATA_PROPERTY:P2175
+is substance that treats	narrow_mappings	RO:0002606
+indicated for	narrow_mappings	RO:0002606
+treats	narrow_mappings	RO:0002606
+is substance that treats	narrow_mappings	NCIT:regimen_has_accepted_use_for_disease
+indicated for	narrow_mappings	NCIT:regimen_has_accepted_use_for_disease
+treats	narrow_mappings	NCIT:regimen_has_accepted_use_for_disease
+is substance that treats	narrow_mappings	REPODB:clinically_tested_approved_unknown_phase
+indicated for	narrow_mappings	REPODB:clinically_tested_approved_unknown_phase
+treats	narrow_mappings	REPODB:clinically_tested_approved_unknown_phase
+is substance that treats	narrow_mappings	REPODB:clinically_tested_suspended_phase_0
+indicated for	narrow_mappings	REPODB:clinically_tested_suspended_phase_0
+treats	narrow_mappings	REPODB:clinically_tested_suspended_phase_0
+is substance that treats	narrow_mappings	REPODB:clinically_tested_suspended_phase_1
+indicated for	narrow_mappings	REPODB:clinically_tested_suspended_phase_1
+treats	narrow_mappings	REPODB:clinically_tested_suspended_phase_1
+is substance that treats	narrow_mappings	REPODB:clinically_tested_suspended_phase_1_or_phase_2
+indicated for	narrow_mappings	REPODB:clinically_tested_suspended_phase_1_or_phase_2
+treats	narrow_mappings	REPODB:clinically_tested_suspended_phase_1_or_phase_2
+is substance that treats	narrow_mappings	REPODB:clinically_tested_suspended_phase_2
+indicated for	narrow_mappings	REPODB:clinically_tested_suspended_phase_2
+treats	narrow_mappings	REPODB:clinically_tested_suspended_phase_2
+is substance that treats	narrow_mappings	REPODB:clinically_tested_suspended_phase_2_or_phase_3
+indicated for	narrow_mappings	REPODB:clinically_tested_suspended_phase_2_or_phase_3
+treats	narrow_mappings	REPODB:clinically_tested_suspended_phase_2_or_phase_3
+is substance that treats	narrow_mappings	REPODB:clinically_tested_suspended_phase_3
+indicated for	narrow_mappings	REPODB:clinically_tested_suspended_phase_3
+treats	narrow_mappings	REPODB:clinically_tested_suspended_phase_3
+is substance that treats	narrow_mappings	REPODB:clinically_tested_terminated_phase_0
+indicated for	narrow_mappings	REPODB:clinically_tested_terminated_phase_0
+treats	narrow_mappings	REPODB:clinically_tested_terminated_phase_0
+is substance that treats	narrow_mappings	REPODB:clinically_tested_terminated_phase_1
+indicated for	narrow_mappings	REPODB:clinically_tested_terminated_phase_1
+treats	narrow_mappings	REPODB:clinically_tested_terminated_phase_1
+is substance that treats	narrow_mappings	REPODB:clinically_tested_terminated_phase_1_or_phase_2
+indicated for	narrow_mappings	REPODB:clinically_tested_terminated_phase_1_or_phase_2
+treats	narrow_mappings	REPODB:clinically_tested_terminated_phase_1_or_phase_2
+is substance that treats	narrow_mappings	REPODB:clinically_tested_terminated_phase_2
+indicated for	narrow_mappings	REPODB:clinically_tested_terminated_phase_2
+treats	narrow_mappings	REPODB:clinically_tested_terminated_phase_2
+is substance that treats	narrow_mappings	REPODB:clinically_tested_terminated_phase_2_or_phase_3
+indicated for	narrow_mappings	REPODB:clinically_tested_terminated_phase_2_or_phase_3
+treats	narrow_mappings	REPODB:clinically_tested_terminated_phase_2_or_phase_3
+is substance that treats	narrow_mappings	REPODB:clinically_tested_terminated_phase_3
+indicated for	narrow_mappings	REPODB:clinically_tested_terminated_phase_3
+treats	narrow_mappings	REPODB:clinically_tested_terminated_phase_3
+is substance that treats	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_0
+indicated for	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_0
+treats	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_0
+is substance that treats	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_1
+indicated for	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_1
+treats	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_1
+is substance that treats	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_1_or_phase_2
+indicated for	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_1_or_phase_2
+treats	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_1_or_phase_2
+is substance that treats	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_2
+indicated for	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_2
+treats	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_2
+is substance that treats	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_2_or_phase_3
+indicated for	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_2_or_phase_3
+treats	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_2_or_phase_3
+is substance that treats	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_3
+indicated for	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_3
+treats	narrow_mappings	REPODB:clinically_tested_withdrawn_phase_3
+is substance that treats	narrow_mappings	SNOMED:plays_role
+indicated for	narrow_mappings	SNOMED:plays_role
+treats	narrow_mappings	SNOMED:plays_role
+is substance that treats	is_a	ameliorates
+indicated for	is_a	ameliorates
+treats	is_a	ameliorates
+is substance that treats	related_mappings	MONDO:disease_responds_to
+indicated for	related_mappings	MONDO:disease_responds_to
+treats	related_mappings	MONDO:disease_responds_to
+treated by	in_subset	translator_minimal
+treated by	exact_mappings	WIKIDATA_PROPERTY:P2176
+treated by	exact_mappings	MONDO:disease_responds_to
+treated by	narrow_mappings	RO:0002302
+treated by	is_a	is ameliorated by
+treated by	inverse	treats
+prevents	in_subset	translator_minimal
+prevents	exact_mappings	SEMMEDDB:PREVENTS
+prevents	narrow_mappings	RO:0002599
+prevents	is_a	affects risk for
+prevented by	is_a	risk affected by
+prevented by	inverse	prevents
+correlated with	in_subset	translator_minimal
+correlated with	exact_mappings	RO:0002610
+correlated with	exact_mappings	PATO:correlates_with
+correlated with	is_a	associated with
+positively correlated with	in_subset	translator_minimal
+positively correlated with	exact_mappings	CTD:positive_correlation
+positively correlated with	is_a	correlated with
+negatively correlated with	in_subset	translator_minimal
+negatively correlated with	exact_mappings	CTD:negative_correlation
+negatively correlated with	is_a	correlated with
+occurs together in literature with	in_subset	translator_minimal
+occurs together in literature with	is_a	correlated with
+coexpressed with	is_a	correlated with
+has biomarker	in_subset	translator_minimal
+has biomarker	narrow_mappings	NCIT:disease_has_molecular_abnormality
+has biomarker	narrow_mappings	NCIT:disease_is_marked_by_gene
+has biomarker	is_a	correlated with
+has biomarker	inverse	biomarker for
+biomarker for	in_subset	translator_minimal
+biomarker for	exact_mappings	NCIT:R39
+biomarker for	narrow_mappings	NCIT:R47
+biomarker for	narrow_mappings	NCIT:genetic_biomarker_related_to
+biomarker for	narrow_mappings	NCIT:is_molecular_abnormality_of_disease
+biomarker for	narrow_mappings	orphanet:465410
+biomarker for	is_a	correlated with
+biomarker for	broad_mappings	RO:0002607
+expressed in	in_subset	translator_minimal
+expressed in	exact_mappings	RO:0002206
+expressed in	narrow_mappings	NCIT:R49
+expressed in	narrow_mappings	NCIT:R46
+expressed in	is_a	located in
+anatomy expresses gene	in_subset	translator_minimal
+expresses	in_subset	translator_minimal
+anatomy expresses gene	exact_mappings	RO:0002292
+expresses	exact_mappings	RO:0002292
+anatomy expresses gene	is_a	location of
+expresses	is_a	location of
+anatomy expresses gene	inverse	expressed in
+expresses	inverse	expressed in
+disease presents symptom	in_subset	translator_minimal
+has phenotype	in_subset	translator_minimal
+disease presents symptom	exact_mappings	RO:0002200
+has phenotype	exact_mappings	RO:0002200
+disease presents symptom	narrow_mappings	NCIT:R89
+has phenotype	narrow_mappings	NCIT:R89
+disease presents symptom	narrow_mappings	DOID-PROPERTY:has_symptom
+has phenotype	narrow_mappings	DOID-PROPERTY:has_symptom
+disease presents symptom	narrow_mappings	RO:0004022
+has phenotype	narrow_mappings	RO:0004022
+disease presents symptom	is_a	related to at instance level
+has phenotype	is_a	related to at instance level
+disease presents symptom	broad_mappings	NCIT:R115
+has phenotype	broad_mappings	NCIT:R115
+disease presents symptom	broad_mappings	NCIT:R108
+has phenotype	broad_mappings	NCIT:R108
+phenotype of	is_a	related to at instance level
+phenotype of	inverse	has phenotype
+occurs in	in_subset	translator_minimal
+occurs in	close_mappings	BFO:0000067
+occurs in	close_mappings	SNOMED:has_occurrence
+occurs in	close_mappings	UBERON:site_of
+occurs in	exact_mappings	BFO:0000066
+occurs in	exact_mappings	PathWhiz:has_location
+occurs in	exact_mappings	SNOMED:occurs_in
+occurs in	narrow_mappings	SEMMEDDB:OCCURS_IN
+occurs in	narrow_mappings	SEMMEDDB:PROCESS_OF
+occurs in	narrow_mappings	UBERON_CORE:site_of
+occurs in	narrow_mappings	LOINC:has_imaged_location
+occurs in	narrow_mappings	PathWhiz:in_species
+occurs in	narrow_mappings	RO:0002231
+occurs in	narrow_mappings	RO:0002232
+occurs in	narrow_mappings	SNOMED:has_direct_procedure_site
+occurs in	narrow_mappings	SNOMED:has_direct_site
+occurs in	narrow_mappings	SNOMED:has_procedure_site
+occurs in	is_a	related to at instance level
+contains process	is_a	related to at instance level
+contains process	inverse	occurs in
+located in	in_subset	translator_minimal
+located in	exact_mappings	RO:0001025
+located in	exact_mappings	FMA:has_location
+located in	narrow_mappings	GOREL:0001004
+located in	narrow_mappings	BSPO:0000107
+located in	narrow_mappings	BSPO:0000108
+located in	narrow_mappings	BSPO:0000120
+located in	narrow_mappings	BSPO:0000121
+located in	narrow_mappings	BSPO:0000122
+located in	narrow_mappings	BSPO:0000123
+located in	narrow_mappings	BSPO:0000124
+located in	narrow_mappings	BSPO:0000125
+located in	narrow_mappings	BSPO:0000126
+located in	narrow_mappings	BSPO:0001100
+located in	narrow_mappings	BSPO:0001101
+located in	narrow_mappings	BSPO:0001107
+located in	narrow_mappings	BSPO:0015101
+located in	narrow_mappings	BSPO:0015102
+located in	narrow_mappings	BSPO:0015202
+located in	narrow_mappings	UBERON_CORE:in_central_side_of
+located in	narrow_mappings	UBERON_CORE:in_innermost_side_of
+located in	narrow_mappings	UBERON_CORE:in_outermost_side_of
+located in	narrow_mappings	NCIT:R100
+located in	narrow_mappings	EFO:0000784
+located in	narrow_mappings	FMA:has_location
+located in	narrow_mappings	HMDB:at_cellular_location
+located in	narrow_mappings	HMDB:at_tissue
+located in	narrow_mappings	HMDB:in_biospecimen
+located in	narrow_mappings	LOINC:has_imaging_focus
+located in	narrow_mappings	NCIT:R156
+located in	narrow_mappings	NCIT:R155
+located in	narrow_mappings	NCIT:R145
+located in	narrow_mappings	NCIT:R40
+located in	narrow_mappings	NCIT:R171
+located in	narrow_mappings	NCIT:R167
+located in	narrow_mappings	NCIT:R165
+located in	narrow_mappings	NCIT:R169
+located in	narrow_mappings	NCIT:R170
+located in	narrow_mappings	NCIT:R166
+located in	narrow_mappings	NCIT:R168
+located in	narrow_mappings	RO:0002303
+located in	narrow_mappings	SNOMED:has_finding_site
+located in	narrow_mappings	SNOMED:has_indirect_procedure_site
+located in	narrow_mappings	SNOMED:has_inherent_location
+located in	is_a	related to at instance level
+site of	in_subset	translator_minimal
+location of	in_subset	translator_minimal
+site of	exact_mappings	RO:0001015
+location of	exact_mappings	RO:0001015
+site of	exact_mappings	SEMMEDDB:LOCATION_OF
+location of	exact_mappings	SEMMEDDB:LOCATION_OF
+site of	exact_mappings	WIKIDATA_PROPERTY:P276
+location of	exact_mappings	WIKIDATA_PROPERTY:P276
+site of	exact_mappings	FMA:location_of
+location of	exact_mappings	FMA:location_of
+site of	narrow_mappings	SNOMED:inherent_location_of
+location of	narrow_mappings	SNOMED:inherent_location_of
+site of	narrow_mappings	NCIT:Anatomic_Structure_Has_Location_Role
+location of	narrow_mappings	NCIT:Anatomic_Structure_Has_Location_Role
+site of	is_a	related to at instance level
+location of	is_a	related to at instance level
+site of	inverse	located in
+location of	inverse	located in
+disease has location	exact_mappings	RO:0004026
+disease has location	exact_mappings	MONDO:disease_has_location
+disease has location	is_a	related to
+location of disease	is_a	related to
+location of disease	inverse	disease has location
+similar to	in_subset	translator_minimal
+similar to	exact_mappings	RO:HOM0000000
+similar to	exact_mappings	SO:similar_to
+similar to	is_a	related to at instance level
+chemically similar to	in_subset	translator_minimal
+chemically similar to	narrow_mappings	CHEBI:has_parent_hydride
+chemically similar to	narrow_mappings	CHEBI:has_functional_parent
+chemically similar to	narrow_mappings	CHEBI:is_conjugate_acid_of
+chemically similar to	narrow_mappings	CHEBI:is_conjugate_base_of
+chemically similar to	narrow_mappings	CHEBI:is_enantiomer_of
+chemically similar to	narrow_mappings	CHEBI:is_tautomer_of
+chemically similar to	narrow_mappings	NCIT:has_salt_form
+chemically similar to	is_a	similar to
+has sequence location	exact_mappings	faldo:location
+has sequence location	is_a	related to at instance level
+sequence location of	is_a	related to at instance level
+sequence location of	inverse	has sequence location
+model of	in_subset	translator_minimal
+model of	exact_mappings	RO:0003301
+model of	narrow_mappings	FOODON:00001301
+model of	is_a	related to at instance level
+models	is_a	related to at instance level
+models	inverse	model of
+overlaps	in_subset	translator_minimal
+overlaps	exact_mappings	RO:0002131
+overlaps	narrow_mappings	BSPO:0005001
+overlaps	narrow_mappings	CHEMBL.MECHANISM:overlaps_with
+overlaps	narrow_mappings	RO:0002100
+overlaps	narrow_mappings	RO:0002102
+overlaps	narrow_mappings	RO:0002433
+overlaps	is_a	related to at instance level
+has part	in_subset	translator_minimal
+has part	exact_mappings	BFO:0000051
+has part	exact_mappings	BFO:0000055
+has part	exact_mappings	WIKIDATA_PROPERTY:P527
+has part	exact_mappings	RO:0001019
+has part	exact_mappings	RXNORM:consists_of
+has part	exact_mappings	RXNORM:has_part
+has part	narrow_mappings	BFO:0000117
+has part	narrow_mappings	FMA:has_constitutional_part
+has part	narrow_mappings	FMA:has_part
+has part	narrow_mappings	FMA:has_member
+has part	narrow_mappings	FOODON:00001563
+has part	narrow_mappings	FOODON:00002420
+has part	narrow_mappings	LOINC:has_component
+has part	narrow_mappings	LOINC:has_member
+has part	narrow_mappings	MEDDRA:has_member
+has part	narrow_mappings	MONDO:disease_has_major_feature
+has part	narrow_mappings	NCIT:complex_has_physical_part
+has part	narrow_mappings	NDDF:has_ingredient
+has part	narrow_mappings	PathWhiz:has_element_in_bound
+has part	narrow_mappings	NCIT:R50
+has part	narrow_mappings	PathWhiz:has_protein_in_complex
+has part	narrow_mappings	RO:0002104
+has part	narrow_mappings	RO:0002180
+has part	narrow_mappings	RO:0002351
+has part	narrow_mappings	RO:0002473
+has part	narrow_mappings	RO:0002524
+has part	narrow_mappings	RO:0002551
+has part	narrow_mappings	RXNORM:has_ingredient
+has part	narrow_mappings	SNOMED:has_component
+has part	narrow_mappings	UMLS:has_component
+has part	is_a	overlaps
+has part	broad_mappings	RO:0001019
+has part	broad_mappings	FMA:contains
+has part	broad_mappings	RXNORM:contains
+has plasma membrane part	in_subset	translator_minimal
+has plasma membrane part	exact_mappings	RO:0002104
+has plasma membrane part	is_a	has part
+composed primarily of	in_subset	translator_minimal
+composed primarily of	exact_mappings	RO:0002473
+composed primarily of	is_a	related to
+primarily composed of	is_a	related to
+primarily composed of	inverse	composed primarily of
+plasma membrane part of	is_a	part of
+plasma membrane part of	inverse	has plasma membrane part
+part of	in_subset	translator_minimal
+part of	exact_mappings	BFO:0000050
+part of	exact_mappings	SEMMEDDB:PART_OF
+part of	exact_mappings	WIKIDATA_PROPERTY:P361
+part of	exact_mappings	FMA:part_of
+part of	exact_mappings	RXNORM:constitutes
+part of	exact_mappings	RXNORM:part_of
+part of	narrow_mappings	BSPO:0001106
+part of	narrow_mappings	BSPO:0001108
+part of	narrow_mappings	BSPO:0001113
+part of	narrow_mappings	BSPO:0001115
+part of	narrow_mappings	UBERON_CORE:layer_part_of
+part of	narrow_mappings	UBERON_CORE:subdivision_of
+part of	narrow_mappings	UBERON_CORE:trunk_part_of
+part of	narrow_mappings	CHEBI:is_substituent_group_from
+part of	narrow_mappings	CPT:panel_element_of
+part of	narrow_mappings	CPT:panel_element_of_possibly_included
+part of	narrow_mappings	DRUGBANK:component_of
+part of	narrow_mappings	FMA:constitutional_part_of
+part of	narrow_mappings	FMA:member_of
+part of	narrow_mappings	FMA:regional_part_of
+part of	narrow_mappings	FMA:related_developmental_entity_of
+part of	narrow_mappings	LOINC:component_of
+part of	narrow_mappings	LOINC:has_supersystem
+part of	narrow_mappings	LOINC:member_of
+part of	narrow_mappings	LOINC:multipart_of
+part of	narrow_mappings	MEDDRA:member_of
+part of	narrow_mappings	MONDO:part_of_progression_of_disease
+part of	narrow_mappings	NCIT:R82
+part of	narrow_mappings	NCIT:R27
+part of	narrow_mappings	NCIT:is_component_of_chemotherapy_regimen
+part of	narrow_mappings	NDDF:ingredient_of
+part of	narrow_mappings	RO:0002007
+part of	narrow_mappings	RO:0002350
+part of	narrow_mappings	RO:0002376
+part of	narrow_mappings	RO:0002380
+part of	narrow_mappings	RO:0002571
+part of	narrow_mappings	RO:0002572
+part of	narrow_mappings	RO:0002576
+part of	narrow_mappings	RXNORM:ingredient_of
+part of	narrow_mappings	RXNORM:ingredients_of
+part of	narrow_mappings	RXNORM:precise_ingredient_of
+part of	narrow_mappings	SNOMED:active_ingredient_of
+part of	narrow_mappings	SNOMED:basis_of_strength_substance_of
+part of	narrow_mappings	SNOMED:component_of
+part of	narrow_mappings	SNOMED:direct_substance_of
+part of	narrow_mappings	SNOMED:during
+part of	narrow_mappings	SNOMED:focus_of
+part of	narrow_mappings	SNOMED:has_dependent
+part of	narrow_mappings	SNOMED:part_anatomy_structure_of
+part of	narrow_mappings	SNOMED:precise_active_ingredient_of
+part of	narrow_mappings	UBERON:subdivision_of
+part of	narrow_mappings	UMLS:component_of
+part of	narrow_mappings	UMLS:has_owning_affiliate
+part of	narrow_mappings	UMLS:owning_subsection_of
+part of	narrow_mappings	VANDF:ingredient_of
+part of	is_a	overlaps
+part of	broad_mappings	RO:0001018
+part of	broad_mappings	FMA:contained_in
+part of	broad_mappings	RXNORM:contained_in
+part of	inverse	has part
+has input	in_subset	translator_minimal
+has input	exact_mappings	RO:0002233
+has input	exact_mappings	SEMMEDDB:USES
+has input	narrow_mappings	LOINC:has_fragments_for_synonyms
+has input	narrow_mappings	LOINC:has_system
+has input	narrow_mappings	PathWhiz:has_left_element
+has input	narrow_mappings	RO:0002590
+has input	narrow_mappings	RO:0004009
+has input	narrow_mappings	SNOMED:has_finding_method
+has input	narrow_mappings	SNOMED:has_precondition
+has input	narrow_mappings	SNOMED:has_specimen_source_identity
+has input	narrow_mappings	SNOMED:has_specimen_substance
+has input	narrow_mappings	SNOMED:uses_access_device
+has input	narrow_mappings	SNOMED:uses_device
+has input	narrow_mappings	SNOMED:uses_energy
+has input	narrow_mappings	SNOMED:uses_substance
+has input	is_a	has participant
+is input of	in_subset	translator_minimal
+is input of	exact_mappings	RO:0002352
+is input of	is_a	participates in
+is input of	inverse	has input
+has output	in_subset	translator_minimal
+has output	exact_mappings	RO:0002234
+has output	narrow_mappings	NCIT:R31
+has output	narrow_mappings	OBI:0000299
+has output	narrow_mappings	PathWhiz:has_right_element
+has output	narrow_mappings	RO:0002296
+has output	narrow_mappings	RO:0002297
+has output	narrow_mappings	RO:0002298
+has output	narrow_mappings	RO:0002299
+has output	narrow_mappings	RO:0002588
+has output	narrow_mappings	RO:0004008
+has output	is_a	has participant
+is output of	in_subset	translator_minimal
+is output of	exact_mappings	RO:0002353
+is output of	narrow_mappings	RO:0002354
+is output of	is_a	participates in
+is output of	inverse	has output
+has participant	in_subset	translator_minimal
+has participant	close_mappings	WIKIDATA_PROPERTY:P2283
+has participant	exact_mappings	RO:0000057
+has participant	exact_mappings	RO:has_participant
+has participant	narrow_mappings	BFO:0000167
+has participant	narrow_mappings	LOINC:has_subject
+has participant	narrow_mappings	NCIT:process_involves_gene
+has participant	narrow_mappings	NBO-PROPERTY:has_participant
+has participant	narrow_mappings	PathWhiz:has_bound
+has participant	narrow_mappings	PathWhiz:has_compound
+has participant	narrow_mappings	PathWhiz:has_element_collection
+has participant	narrow_mappings	PathWhiz:has_enzyme
+has participant	narrow_mappings	OBI:0000293
+has participant	narrow_mappings	PathWhiz:has_nucleic_acid
+has participant	narrow_mappings	PathWhiz:has_protein
+has participant	narrow_mappings	PathWhiz:has_reaction
+has participant	narrow_mappings	RO:0002565
+has participant	narrow_mappings	RO:0004007
+has participant	narrow_mappings	RO:0004020
+has participant	narrow_mappings	RO:0004021
+has participant	narrow_mappings	SNOMED:has_indirect_device
+has participant	narrow_mappings	SNOMED:has_procedure_device
+has participant	narrow_mappings	SNOMED:has_recipient_category
+has participant	is_a	related to at instance level
+catalyzes	exact_mappings	RO:0002327
+catalyzes	is_a	participates in
+has catalyst	is_a	has participant
+has catalyst	inverse	catalyzes
+has substrate	is_a	has participant
+is substrate of	is_a	participates in
+is substrate of	inverse	has substrate
+participates in	in_subset	translator_minimal
+participates in	exact_mappings	RO:0000056
+participates in	exact_mappings	BFO:0000056
+participates in	narrow_mappings	DRUGBANK:pathway
+participates in	narrow_mappings	HMDB:in_pathway
+participates in	narrow_mappings	LOINC:is_given_pharmaceutical_substance_for
+participates in	narrow_mappings	NCIT:R130
+participates in	narrow_mappings	NCIT:R37
+participates in	narrow_mappings	NCIT:R131
+participates in	narrow_mappings	NCIT:R51
+participates in	narrow_mappings	NCIT:R53
+participates in	narrow_mappings	OBI:0000295
+participates in	narrow_mappings	RO:0002216
+participates in	narrow_mappings	RO:0002505
+participates in	narrow_mappings	SNOMED:has_direct_device
+participates in	is_a	related to at instance level
+participates in	inverse	has participant
+involved in	in_subset	translator_minimal
+actively involved in	in_subset	translator_minimal
+involved in	exact_mappings	RO:0002331
+actively involved in	exact_mappings	RO:0002331
+involved in	narrow_mappings	NBO-PROPERTY:by_means
+actively involved in	narrow_mappings	NBO-PROPERTY:by_means
+involved in	narrow_mappings	orphanet:317348
+actively involved in	narrow_mappings	orphanet:317348
+involved in	narrow_mappings	orphanet:317349
+actively involved in	narrow_mappings	orphanet:317349
+involved in	narrow_mappings	orphanet:327767
+actively involved in	narrow_mappings	orphanet:327767
+involved in	narrow_mappings	RO:0002503
+actively involved in	narrow_mappings	RO:0002503
+involved in	is_a	participates in
+actively involved in	is_a	participates in
+actively involves	in_subset	translator_minimal
+actively involves	is_a	has participant
+actively involves	inverse	actively involved in
+capable of	in_subset	translator_minimal
+capable of	exact_mappings	RO:0002215
+capable of	narrow_mappings	NCIT:R52
+capable of	narrow_mappings	RO:0002500
+capable of	is_a	actively involved in
+can be carried out by	is_a	actively involves
+can be carried out by	inverse	capable of
+enables	in_subset	translator_minimal
+enables	exact_mappings	RO:0002327
+enables	is_a	participates in
+enables	inverse	enabled by
+enabled by	in_subset	translator_minimal
+enabled by	exact_mappings	RO:0002333
+enabled by	is_a	has participant
+enabled by	inverse	enables
+is normal cell origin of disease	in_subset	translator_minimal
+may be normal cell origin of disease	in_subset	translator_minimal
+derives into	in_subset	translator_minimal
+is normal cell origin of disease	exact_mappings	RO:0001001
+may be normal cell origin of disease	exact_mappings	RO:0001001
+derives into	exact_mappings	RO:0001001
+is normal cell origin of disease	exact_mappings	SEMMEDDB:CONVERTS_TO
+may be normal cell origin of disease	exact_mappings	SEMMEDDB:CONVERTS_TO
+derives into	exact_mappings	SEMMEDDB:CONVERTS_TO
+is normal cell origin of disease	exact_mappings	FMA:derives
+may be normal cell origin of disease	exact_mappings	FMA:derives
+derives into	exact_mappings	FMA:derives
+is normal cell origin of disease	is_a	related to at instance level
+may be normal cell origin of disease	is_a	related to at instance level
+derives into	is_a	related to at instance level
+is normal cell origin of disease	inverse	derives from
+may be normal cell origin of disease	inverse	derives from
+derives into	inverse	derives from
+derives from	in_subset	translator_minimal
+derives from	in_subset	samples
+derives from	exact_mappings	RO:0001000
+derives from	exact_mappings	FMA:derives_from
+derives from	exact_mappings	DOID-PROPERTY:derives_from
+derives from	narrow_mappings	CHEBI:has_functional_parent
+derives from	narrow_mappings	SNOMED:has_specimen_source_topography
+derives from	is_a	related to at instance level
+derives from	inverse	derives into
+is metabolite of	in_subset	translator_minimal
+is metabolite of	exact_mappings	CHEBI:25212
+is metabolite of	is_a	derives from
+is metabolite of	inverse	has metabolite
+has metabolite	in_subset	translator_minimal
+has metabolite	exact_mappings	CHEBI:25212
+has metabolite	is_a	derives into
+food component of	in_subset	translator_minimal
+food component of	is_a	part of
+food component of	inverse	has food component
+has food component	in_subset	translator_minimal
+has food component	is_a	has part
+nutrient of	in_subset	translator_minimal
+nutrient of	is_a	food component of
+nutrient of	inverse	has nutrient
+has nutrient	in_subset	translator_minimal
+has nutrient	exact_mappings	WIKIDATA:Q181394
+has nutrient	is_a	has food component
+is active ingredient of	in_subset	translator_minimal
+is active ingredient of	is_a	part of
+is active ingredient of	mappings	RO:0002249
+is active ingredient of	inverse	has active ingredient
+has active ingredient	in_subset	translator_minimal
+has active ingredient	is_a	has part
+has active ingredient	mappings	RO:0002248
+has active ingredient	inverse	is active ingredient of
+is excipient of	in_subset	translator_minimal
+is excipient of	is_a	part of
+is excipient of	mappings	WIKIDATA:Q902638
+is excipient of	inverse	has excipient
+has excipient	in_subset	translator_minimal
+has excipient	is_a	has part
+has excipient	mappings	WIKIDATA:Q902638
+manifestation of	in_subset	translator_minimal
+manifestation of	exact_mappings	SEMMEDDB:MANIFESTATION_OF
+manifestation of	exact_mappings	OMIM:manifestation_of
+manifestation of	narrow_mappings	SNOMED:has_definitional_manifestation
+manifestation of	is_a	related to at instance level
+manifestation of	broad_mappings	WIKIDATA_PROPERTY:P1557
+has manifestation	is_a	related to at instance level
+has manifestation	inverse	manifestation of
+mode of inheritance of	is_a	manifestation of
+mode of inheritance of	inverse	has mode of inheritance
+has mode of inheritance	in_subset	translator_minimal
+has mode of inheritance	is_a	has manifestation
+produces	in_subset	translator_minimal
+produces	exact_mappings	RO:0003000
+produces	exact_mappings	WIKIDATA_PROPERTY:P1056
+produces	exact_mappings	SEMMEDDB:PRODUCES
+produces	narrow_mappings	NCIT:R29
+produces	narrow_mappings	SNOMED:has_process_output
+produces	narrow_mappings	SNOMED:specimen_procedure_of
+produces	is_a	related to at instance level
+produces	related_mappings	GOREL:0001010
+produced by	exact_mappings	RO:0003001
+produced by	is_a	related to at instance level
+produced by	inverse	produces
+consumes	narrow_mappings	RO:0004009
+consumes	is_a	has input
+consumed by	is_a	is input of
+consumed by	inverse	consumes
+temporally related to	exact_mappings	SNOMED:temporally_related_to
+temporally related to	narrow_mappings	RO:0002082
+temporally related to	narrow_mappings	RO:0002083
+temporally related to	narrow_mappings	RO:0002092
+temporally related to	narrow_mappings	RO:0002093
+temporally related to	narrow_mappings	RO:0002223
+temporally related to	narrow_mappings	RO:0002224
+temporally related to	narrow_mappings	RO:0002229
+temporally related to	narrow_mappings	RO:0002230
+temporally related to	narrow_mappings	RO:0002488
+temporally related to	narrow_mappings	RO:0002489
+temporally related to	narrow_mappings	RO:0002492
+temporally related to	narrow_mappings	RO:0002493
+temporally related to	narrow_mappings	RO:0002496
+temporally related to	narrow_mappings	RO:0002497
+temporally related to	is_a	related to at instance level
+precedes	in_subset	translator_minimal
+precedes	close_mappings	RO:0002263
+precedes	close_mappings	RO:0002264
+precedes	exact_mappings	BFO:0000063
+precedes	exact_mappings	SEMMEDDB:PRECEDES
+precedes	exact_mappings	SNOMED:occurs_before
+precedes	narrow_mappings	FMA:transforms_into
+precedes	narrow_mappings	RO:0002090
+precedes	narrow_mappings	RO:0002411
+precedes	narrow_mappings	RO:0002412
+precedes	is_a	temporally related to
+precedes	broad_mappings	WIKIDATA_PROPERTY:P156
+precedes	inverse	preceded by
+preceded by	in_subset	translator_minimal
+preceded by	exact_mappings	BFO:0000062
+preceded by	narrow_mappings	FMA:transforms_from
+preceded by	narrow_mappings	RO:0002087
+preceded by	narrow_mappings	RO:0002285
+preceded by	is_a	temporally related to
+preceded by	broad_mappings	GENEPIO:0001739
+preceded by	inverse	precedes
+has variant part	exact_mappings	GENO:0000382
+has variant part	is_a	has part
+variant part of	is_a	part of
+variant part of	inverse	has variant part
+related condition	exact_mappings	GENO:0000790
+related condition	is_a	related to at instance level
+gene product sequence variation encoded by gene mutant	narrow_mappings	WIKIDATA:P3433
+allelic variant of	narrow_mappings	WIKIDATA:P3433
+gene product variant of gene product	narrow_mappings	WIKIDATA:P3433
+is sequence variant of	narrow_mappings	WIKIDATA:P3433
+gene product sequence variation encoded by gene mutant	is_a	related to at instance level
+allelic variant of	is_a	related to at instance level
+gene product variant of gene product	is_a	related to at instance level
+is sequence variant of	is_a	related to at instance level
+has sequence variant	is_a	related to at instance level
+has sequence variant	inverse	is sequence variant of
+is missense variant of	exact_mappings	SO:0001583
+is missense variant of	is_a	is sequence variant of
+has missense variant	is_a	has sequence variant
+has missense variant	inverse	is missense variant of
+is synonymous variant of	exact_mappings	SO:0001819
+is synonymous variant of	is_a	is sequence variant of
+stop gained	is_a	has sequence variant
+has synonymous variant	is_a	has sequence variant
+stop gained	inverse	is synonymous variant of
+has synonymous variant	inverse	is synonymous variant of
+is nonsense variant of	is_a	is sequence variant of
+is nonsense variant of	broad_mappings	SO:0002054
+has nonsense variant	is_a	has sequence variant
+has nonsense variant	inverse	is nonsense variant of
+frameshift variant	exact_mappings	SO:0001589
+start lost	exact_mappings	SO:0001589
+stop lost	exact_mappings	SO:0001589
+is frameshift variant of	exact_mappings	SO:0001589
+frameshift variant	is_a	is sequence variant of
+start lost	is_a	is sequence variant of
+stop lost	is_a	is sequence variant of
+is frameshift variant of	is_a	is sequence variant of
+splice region variant	is_a	has sequence variant
+splice acceptor variant	is_a	has sequence variant
+splice donor variant	is_a	has sequence variant
+has frameshift variant	is_a	has sequence variant
+splice region variant	inverse	is frameshift variant of
+splice acceptor variant	inverse	is frameshift variant of
+splice donor variant	inverse	is frameshift variant of
+has frameshift variant	inverse	is frameshift variant of
+is splice site variant of	exact_mappings	SO:0001629
+is splice site variant of	is_a	is sequence variant of
+downstream gene variant	is_a	has sequence variant
+upstream gene variant	is_a	has sequence variant
+has splice site variant	is_a	has sequence variant
+downstream gene variant	inverse	is splice site variant of
+upstream gene variant	inverse	is splice site variant of
+has splice site variant	inverse	is splice site variant of
+is nearby variant of	is_a	is sequence variant of
+intron variant	is_a	has sequence variant
+3 prime UTR variant	is_a	has sequence variant
+5 prime UTR variant	is_a	has sequence variant
+5 prime UTR premature start codon gain variant	is_a	has sequence variant
+non coding transcript exon variant	is_a	has sequence variant
+has nearby variant	is_a	has sequence variant
+intron variant	inverse	is nearby variant of
+3 prime UTR variant	inverse	is nearby variant of
+5 prime UTR variant	inverse	is nearby variant of
+5 prime UTR premature start codon gain variant	inverse	is nearby variant of
+non coding transcript exon variant	inverse	is nearby variant of
+has nearby variant	inverse	is nearby variant of
+is non coding variant of	is_a	is sequence variant of
+has non coding variant	is_a	has sequence variant
+has non coding variant	inverse	is non coding variant of
+disease has basis in	narrow_mappings	MONDO:disease_has_basis_in_development_of
+disease has basis in	narrow_mappings	MONDO:disease_has_basis_in_accumulation_of
+disease has basis in	is_a	related to at instance level
+occurs in disease	is_a	related to at instance level
+occurs in disease	inverse	disease has basis in
+adverse effect	is_a	affects
+has adverse event	is_a	affects
+adverse event of	is_a	affected by
+adverse event of	inverse	has adverse event
+adverse drug reaction	exact_mappings	NCIT:C2861
+has side effect	exact_mappings	NCIT:C2861
+adverse drug reaction	is_a	affects
+has side effect	is_a	affects
+is side effect of	is_a	affected by
+is side effect of	inverse	has side effect
+contraindicated for	exact_mappings	NCIT:C37933
+contraindicated for	is_a	related to at instance level
+has contraindication	is_a	related to at instance level
+has contraindication	inverse	contraindicated for
+has not completed	exact_mappings	CL:has_not_completed
+has not completed	is_a	related to at instance level
+not completed by	is_a	related to at instance level
+not completed by	inverse	has not completed
+has completed	exact_mappings	CL:has_completed
+has completed	is_a	related to at instance level
+completed by	is_a	related to at instance level
+completed by	inverse	has completed
+in linkage disequilibrium with	exact_mappings	NCIT:C16798
+in linkage disequilibrium with	is_a	related to at instance level
+has increased amount	narrow_mappings	CL:has_high_plasma_membrane_amount
+has increased amount	is_a	related to at instance level
+increased amount of	is_a	related to at instance level
+increased amount of	inverse	has increased amount
+has decreased amount	narrow_mappings	CL:has_low_plasma_membrane_amount
+has decreased amount	is_a	related to at instance level
+decreased amount in	is_a	related to at instance level
+decreased amount in	inverse	has decreased amount
+lacks part	exact_mappings	CL:lacks_part
+lacks part	exact_mappings	PR:lacks_part
+lacks part	narrow_mappings	CL:lacks_plasma_membrane_part
+lacks part	is_a	related to at instance level
+missing from	is_a	related to at instance level
+missing from	inverse	lacks part
+develops from	close_mappings	RO:0002203
+develops from	close_mappings	FMA:develops_into
+develops from	exact_mappings	BTO:develops_from
+develops from	exact_mappings	DDANAT:develops_from
+develops from	exact_mappings	FMA:develops_from
+develops from	exact_mappings	RO:0002202
+develops from	narrow_mappings	RO:0002207
+develops from	narrow_mappings	RO:0002225
+develops from	narrow_mappings	RO:0002226
+develops from	is_a	related to at instance level
+develops into	is_a	related to at instance level
+develops into	inverse	develops from
+instance of	in_subset	translator_minimal
+is organism source of gene product	in_subset	translator_minimal
+organism has gene	in_subset	translator_minimal
+gene found in organism	in_subset	translator_minimal
+gene product has organism source	in_subset	translator_minimal
+in taxon	in_subset	translator_minimal
+instance of	exact_mappings	RO:0002162
+is organism source of gene product	exact_mappings	RO:0002162
+organism has gene	exact_mappings	RO:0002162
+gene found in organism	exact_mappings	RO:0002162
+gene product has organism source	exact_mappings	RO:0002162
+in taxon	exact_mappings	RO:0002162
+instance of	exact_mappings	WIKIDATA_PROPERTY:P703
+is organism source of gene product	exact_mappings	WIKIDATA_PROPERTY:P703
+organism has gene	exact_mappings	WIKIDATA_PROPERTY:P703
+gene found in organism	exact_mappings	WIKIDATA_PROPERTY:P703
+gene product has organism source	exact_mappings	WIKIDATA_PROPERTY:P703
+in taxon	exact_mappings	WIKIDATA_PROPERTY:P703
+instance of	narrow_mappings	RO:0002160
+is organism source of gene product	narrow_mappings	RO:0002160
+organism has gene	narrow_mappings	RO:0002160
+gene found in organism	narrow_mappings	RO:0002160
+gene product has organism source	narrow_mappings	RO:0002160
+in taxon	narrow_mappings	RO:0002160
+instance of	is_a	related to at instance level
+is organism source of gene product	is_a	related to at instance level
+organism has gene	is_a	related to at instance level
+gene found in organism	is_a	related to at instance level
+gene product has organism source	is_a	related to at instance level
+in taxon	is_a	related to at instance level
+in taxon label	in_subset	translator_minimal
+rdfs:label	exact_mappings	WIKIDATA_PROPERTY:P225
+in taxon label	exact_mappings	WIKIDATA_PROPERTY:P225
+rdfs:label	is_a	node property
+in taxon label	is_a	node property
+taxon of	is_a	related to at instance level
+taxon of	inverse	in taxon
+allele has activity	narrow_mappings	NCIT:allele_has_activity
+has molecular consequence	narrow_mappings	NCIT:allele_has_activity
+allele has activity	is_a	related to at instance level
+has molecular consequence	is_a	related to at instance level
+is molecular consequence of	is_a	related to at instance level
+is molecular consequence of	inverse	has molecular consequence
+original subject	is_a	association slot
+original object	is_a	association slot
+original relation	is_a	association slot
+relation	is_a	association slot
+original predicate	is_a	association slot
+subject closure	is_a	association slot
+object closure	is_a	association slot
+subject category	is_a	association slot
+object category	is_a	association slot
+subject category closure	is_a	association slot
+object category closure	is_a	association slot
+subject label closure	is_a	association slot
+object label closure	is_a	association slot
+subject prefix	is_a	association slot
+subject namespace	is_a	association slot
+object prefix	is_a	association slot
+object namespace	is_a	association slot
+rdf:subject	exact_mappings	owl:annotatedSource
+subject	exact_mappings	owl:annotatedSource
+rdf:subject	exact_mappings	OBAN:association_has_subject
+subject	exact_mappings	OBAN:association_has_subject
+rdf:subject	is_a	association slot
+subject	is_a	association slot
+rdf:object	exact_mappings	owl:annotatedTarget
+object	exact_mappings	owl:annotatedTarget
+rdf:object	exact_mappings	OBAN:association_has_object
+object	exact_mappings	OBAN:association_has_object
+rdf:object	is_a	association slot
+object	is_a	association slot
+rdf:predicate	exact_mappings	owl:annotatedProperty
+predicate	exact_mappings	owl:annotatedProperty
+rdf:predicate	exact_mappings	OBAN:association_has_predicate
+predicate	exact_mappings	OBAN:association_has_predicate
+rdf:predicate	is_a	association slot
+predicate	is_a	association slot
+logical interpretation	exact_mappings	os:LogicalInterpretation
+logical interpretation	is_a	association slot
+negated	is_a	association slot
+has confidence level	is_a	association slot
+has evidence	exact_mappings	RO:0002558
+has evidence	is_a	association slot
+has supporting study result	is_a	association slot
+log odds ratio	is_a	association slot
+log odds ration 95 ci	is_a	association slot
+total sample size	is_a	dataset count
+mechanism of action	exact_mappings	NCIT:C54680
+mechanism of action	exact_mappings	MI:2044
+mechanism of action	exact_mappings	LOINC:MTHU019741
+mechanism of action	is_a	association slot
+knowledge source	close_mappings	pav:providedBy
+knowledge source	is_a	association slot
+provided by	is_a	node property
+primary knowledge source	is_a	knowledge source
+aggregator knowledge source	is_a	knowledge source
+supporting data source	is_a	association slot
+supporting data set	is_a	association slot
+chi squared statistic	exact_mappings	STATO:0000030
+chi squared statistic	is_a	association slot
+unadjusted p value	exact_mappings	OBI:0000175
+p value	exact_mappings	OBI:0000175
+unadjusted p value	exact_mappings	NCIT:C44185
+p value	exact_mappings	NCIT:C44185
+unadjusted p value	exact_mappings	EDAM-DATA:1669
+p value	exact_mappings	EDAM-DATA:1669
+unadjusted p value	is_a	association slot
+p value	is_a	association slot
+evidence count	is_a	association slot
+dataset count	is_a	association slot
+concept count subject	is_a	association slot
+concept count object	is_a	association slot
+concept pair count	is_a	association slot
+expected count	is_a	association slot
+relative frequency subject	is_a	association slot
+relative frequency object	is_a	association slot
+relative frequency subject confidence interval	is_a	association slot
+relative frequency object confidence interval	is_a	association slot
+adjusted p value	is_a	p value
+bonferonni adjusted p value	is_a	adjusted p value
+supporting text	is_a	association slot
+supporting documents	is_a	association slot
+subject location in text	is_a	association slot
+object location in text	is_a	association slot
+extraction confidence score	is_a	association slot
+supporting document type	is_a	association slot
+supporting document year	is_a	association slot
+supporting text section type	is_a	association slot
+ln ratio	is_a	association slot
+ln ratio confidence interval	is_a	association slot
+interacting molecules category	exact_mappings	MI:1046
+interacting molecules category	is_a	association slot
+interacting molecules category	values_from	MI
+expression site	is_a	association slot
+phenotypic state	is_a	association slot
+supporting publications	is_a	association slot
+publications	is_a	association slot
+associated environmental context	is_a	association slot
+sequence localization attribute	is_a	association slot
+zero-based	is_a	sequence localization attribute
+half-open	is_a	sequence localization attribute
+space-based	is_a	sequence localization attribute
+interbase coordinate	is_a	sequence localization attribute
+start interbase coordinate	close_mappings	faldo:begin
+start interbase coordinate	is_a	interbase coordinate
+end interbase coordinate	close_mappings	faldo:end
+end interbase coordinate	is_a	interbase coordinate
+start	close_mappings	faldo:begin
+start coordinate	close_mappings	faldo:begin
+start	exact_mappings	gff3:start
+start coordinate	exact_mappings	gff3:start
+start	is_a	base coordinate
+start coordinate	is_a	base coordinate
+end	close_mappings	faldo:end
+end coordinate	close_mappings	faldo:end
+end	exact_mappings	gff3:end
+end coordinate	exact_mappings	gff3:end
+end	is_a	base coordinate
+end coordinate	is_a	base coordinate
+genome build	exact_mappings	gff3:strand
+genome build	is_a	sequence localization attribute
+strand	exact_mappings	gff3:strand
+strand	is_a	sequence localization attribute
+phase	exact_mappings	gff3:phase
+phase	is_a	sequence localization attribute
+FDA approval status	is_a	association slot
+supporting study metadata	is_a	association slot
+supporting study method type	is_a	supporting study metadata
+supporting study method description	is_a	supporting study metadata
+supporting study size	is_a	supporting study metadata
+supporting study cohort	is_a	supporting study metadata
+supporting study date range	is_a	supporting study metadata
+supporting study context	is_a	supporting study metadata
+mapping collection	slots	predicate mappings
+predicate mapping	slots	mapped predicate
+predicate mapping	slots	subject aspect qualifier
+predicate mapping	slots	subject direction qualifier
+predicate mapping	slots	subject form or variant qualifier
+predicate mapping	slots	subject part qualifier
+predicate mapping	slots	subject derivative qualifier
+predicate mapping	slots	subject context qualifier
+predicate mapping	slots	predicate
+predicate mapping	slots	qualified predicate
+predicate mapping	slots	object aspect qualifier
+predicate mapping	slots	object direction qualifier
+predicate mapping	slots	object form or variant qualifier
+predicate mapping	slots	object part qualifier
+predicate mapping	slots	object derivative qualifier
+predicate mapping	slots	object context qualifier
+predicate mapping	slots	causal mechanism qualifier
+predicate mapping	slots	anatomical context qualifier
+predicate mapping	slots	species context qualifier
+predicate mapping	slots	exact match
+predicate mapping	slots	narrow match
+predicate mapping	slots	broad match
+ontology class	exact_mappings	owl:Class
+ontology class	exact_mappings	schema:Class
+ontology class	slots	id
+quantity value	is_a	annotation
+quantity value	slots	has unit
+quantity value	slots	has numeric value
+attribute	in_subset	samples
+attribute	exact_mappings	SIO:000614
+attribute	is_a	named thing
+attribute	mixins	ontology class
+attribute	slots	name
+attribute	slots	has attribute type
+attribute	slots	has quantitative value
+attribute	slots	has qualitative value
+attribute	slots	iri
+chemical role	exact_mappings	CHEBI:51086
+chemical role	is_a	attribute
+biological sex	exact_mappings	PATO:0000047
+biological sex	is_a	attribute
+phenotypic sex	exact_mappings	PATO:0001894
+phenotypic sex	is_a	biological sex
+genotypic sex	exact_mappings	PATO:0020000
+genotypic sex	is_a	biological sex
+severity value	is_a	attribute
+sensitivity quantifier	is_a	relationship quantifier
+specificity quantifier	is_a	relationship quantifier
+pathognomonicity quantifier	is_a	specificity quantifier
+frequency quantifier	is_a	relationship quantifier
+frequency quantifier	slots	has count
+frequency quantifier	slots	has total
+frequency quantifier	slots	has quotient
+frequency quantifier	slots	has percentage
+entity	slots	id
+entity	slots	iri
+entity	slots	category
+entity	slots	type
+entity	slots	name
+entity	slots	description
+entity	slots	has attribute
+named thing	exact_mappings	BFO:0000001
+named thing	exact_mappings	WIKIDATA:Q35120
+named thing	exact_mappings	UMLSSG:OBJC
+named thing	exact_mappings	STY:T071
+named thing	exact_mappings	dcid:Thing
+named thing	is_a	entity
+named thing	slots	provided by
+named thing	slots	xref
+relationship type	is_a	ontology class
+taxonomic rank	is_a	ontology class
+taxonomic rank	mappings	WIKIDATA:Q427626
+taxon	in_subset	model_organism_database
+taxonomic classification	in_subset	model_organism_database
+organism taxon	in_subset	model_organism_database
+taxon	exact_mappings	WIKIDATA:Q16521
+taxonomic classification	exact_mappings	WIKIDATA:Q16521
+organism taxon	exact_mappings	WIKIDATA:Q16521
+taxon	exact_mappings	STY:T001
+taxonomic classification	exact_mappings	STY:T001
+organism taxon	exact_mappings	STY:T001
+taxon	exact_mappings	bioschemas:Taxon
+taxonomic classification	exact_mappings	bioschemas:Taxon
+organism taxon	exact_mappings	bioschemas:Taxon
+taxon	narrow_mappings	dcid:BiologicalSpecies
+taxonomic classification	narrow_mappings	dcid:BiologicalSpecies
+organism taxon	narrow_mappings	dcid:BiologicalSpecies
+taxon	is_a	named thing
+taxonomic classification	is_a	named thing
+organism taxon	is_a	named thing
+taxon	values_from	NCBITaxon
+taxonomic classification	values_from	NCBITaxon
+organism taxon	values_from	NCBITaxon
+event	exact_mappings	NCIT:C25499
+event	exact_mappings	STY:T051
+event	is_a	named thing
+administrative entity	is_a	named thing
+study result	is_a	information content entity
+study	close_mappings	SIO:001066
+study	close_mappings	SEPIO:0000004
+study	exact_mappings	NCIT:C63536
+study	narrow_mappings	SIO:000994
+study	is_a	activity
+study variable	close_mappings	STATO:0000258
+study variable	close_mappings	SIO:000367
+study variable	narrow_mappings	NCIT:C142192
+study variable	is_a	information content entity
+common data element	close_mappings	NCIT:C19984
+common data element	is_a	information content entity
+concept count analysis result	is_a	study result
+observed expected frequency analysis result	is_a	study result
+relative frequency analysis result	is_a	study result
+text mining result	is_a	study result
+chi squared analysis result	is_a	study result
+log odds analysis result	is_a	study result
+group	exact_mappings	prov:Agent
+agent	exact_mappings	prov:Agent
+group	exact_mappings	dct:Agent
+agent	exact_mappings	dct:Agent
+group	narrow_mappings	UMLSSG:ORGA
+agent	narrow_mappings	UMLSSG:ORGA
+group	narrow_mappings	STY:T092
+agent	narrow_mappings	STY:T092
+group	narrow_mappings	STY:T093
+agent	narrow_mappings	STY:T093
+group	narrow_mappings	STY:T094
+agent	narrow_mappings	STY:T094
+group	narrow_mappings	STY:T095
+agent	narrow_mappings	STY:T095
+group	narrow_mappings	STY:T096
+agent	narrow_mappings	STY:T096
+group	is_a	administrative entity
+agent	is_a	administrative entity
+group	slots	affiliation
+agent	slots	affiliation
+group	slots	address
+agent	slots	address
+information	exact_mappings	IAO:0000030
+information artefact	exact_mappings	IAO:0000030
+information entity	exact_mappings	IAO:0000030
+information content entity	exact_mappings	IAO:0000030
+information	narrow_mappings	UMLSSG:CONC
+information artefact	narrow_mappings	UMLSSG:CONC
+information entity	narrow_mappings	UMLSSG:CONC
+information content entity	narrow_mappings	UMLSSG:CONC
+information	narrow_mappings	STY:T077
+information artefact	narrow_mappings	STY:T077
+information entity	narrow_mappings	STY:T077
+information content entity	narrow_mappings	STY:T077
+information	narrow_mappings	STY:T078
+information artefact	narrow_mappings	STY:T078
+information entity	narrow_mappings	STY:T078
+information content entity	narrow_mappings	STY:T078
+information	narrow_mappings	STY:T079
+information artefact	narrow_mappings	STY:T079
+information entity	narrow_mappings	STY:T079
+information content entity	narrow_mappings	STY:T079
+information	narrow_mappings	STY:T080
+information artefact	narrow_mappings	STY:T080
+information entity	narrow_mappings	STY:T080
+information content entity	narrow_mappings	STY:T080
+information	narrow_mappings	STY:T081
+information artefact	narrow_mappings	STY:T081
+information entity	narrow_mappings	STY:T081
+information content entity	narrow_mappings	STY:T081
+information	narrow_mappings	STY:T082
+information artefact	narrow_mappings	STY:T082
+information entity	narrow_mappings	STY:T082
+information content entity	narrow_mappings	STY:T082
+information	narrow_mappings	STY:T089
+information artefact	narrow_mappings	STY:T089
+information entity	narrow_mappings	STY:T089
+information content entity	narrow_mappings	STY:T089
+information	narrow_mappings	STY:T102
+information artefact	narrow_mappings	STY:T102
+information entity	narrow_mappings	STY:T102
+information content entity	narrow_mappings	STY:T102
+information	narrow_mappings	STY:T169
+information artefact	narrow_mappings	STY:T169
+information entity	narrow_mappings	STY:T169
+information content entity	narrow_mappings	STY:T169
+information	narrow_mappings	STY:T171
+information artefact	narrow_mappings	STY:T171
+information entity	narrow_mappings	STY:T171
+information content entity	narrow_mappings	STY:T171
+information	narrow_mappings	STY:T185
+information artefact	narrow_mappings	STY:T185
+information entity	narrow_mappings	STY:T185
+information content entity	narrow_mappings	STY:T185
+information	is_a	named thing
+information artefact	is_a	named thing
+information entity	is_a	named thing
+information content entity	is_a	named thing
+information	slots	license
+information artefact	slots	license
+information entity	slots	license
+information content entity	slots	license
+information	slots	rights
+information artefact	slots	rights
+information entity	slots	rights
+information content entity	slots	rights
+information	slots	format
+information artefact	slots	format
+information entity	slots	format
+information content entity	slots	format
+information	slots	creation date
+information artefact	slots	creation date
+information entity	slots	creation date
+information content entity	slots	creation date
+dataset	exact_mappings	IAO:0000100
+dataset	exact_mappings	dctypes:Dataset
+dataset	exact_mappings	schema:dataset
+dataset	exact_mappings	dcid:Dataset
+dataset	is_a	information content entity
+dataset distribution	exact_mappings	dcat:Distribution
+dataset distribution	is_a	information content entity
+dataset distribution	slots	distribution download url
+dataset version	is_a	information content entity
+dataset version	slots	has dataset
+dataset version	slots	ingest date
+dataset version	slots	has distribution
+dataset summary	is_a	information content entity
+dataset summary	slots	source web page
+dataset summary	slots	source logo
+confidence level	close_mappings	SEPIO:0000167
+confidence level	exact_mappings	CIO:0000028
+confidence level	exact_mappings	SEPIO:0000187
+confidence level	is_a	information content entity
+confidence level	values_from	cio
+evidence code	exact_mappings	ECO:0000000
+evidence type	exact_mappings	ECO:0000000
+evidence code	is_a	information content entity
+evidence type	is_a	information content entity
+evidence code	values_from	eco
+evidence type	values_from	eco
+publication	in_subset	model_organism_database
+publication	exact_mappings	IAO:0000311
+publication	narrow_mappings	IAO:0000013
+publication	narrow_mappings	STY:T170
+publication	is_a	information content entity
+publication	slots	authors
+publication	slots	pages
+publication	slots	summary
+publication	slots	keywords
+publication	slots	mesh terms
+publication	slots	xref
+book	in_subset	model_organism_database
+book	is_a	publication
+book chapter	in_subset	model_organism_database
+book chapter	is_a	publication
+book chapter	slots	published in
+book chapter	slots	volume
+book chapter	slots	chapter
+journal	in_subset	model_organism_database
+serial	in_subset	model_organism_database
+journal	is_a	publication
+serial	is_a	publication
+journal	slots	iso abbreviation
+serial	slots	iso abbreviation
+journal	slots	volume
+serial	slots	volume
+journal	slots	issue
+serial	slots	issue
+article	in_subset	model_organism_database
+article	exact_mappings	SIO:000154
+article	exact_mappings	fabio:article
+article	is_a	publication
+article	slots	published in
+article	slots	iso abbreviation
+article	slots	volume
+article	slots	issue
+journal article	exact_mappings	IAO:0000013
+journal article	exact_mappings	fabio:JournalArticle
+journal article	is_a	article
+patent	exact_mappings	SIO:000153
+patent	exact_mappings	IAO:0000313
+patent	exact_mappings	fabio:Patent
+patent	is_a	publication
+web page	exact_mappings	SIO:000302
+web page	exact_mappings	NCIT-OBO:C142749
+web page	exact_mappings	fabio:WebPage
+web page	is_a	publication
+preprint publication	exact_mappings	EFO:0010558
+preprint publication	exact_mappings	fabio:Preprint
+preprint publication	is_a	publication
+drug label	is_a	publication
+drug label	broad_mappings	NCIT-OBO:C41203
+retrieval source	is_a	information content entity
+retrieval source	slots	resource id
+retrieval source	slots	resource role
+retrieval source	slots	upstream resource ids
+retrieval source	slots	xref
+physical essence	is_a	physical essence or occurrent
+physical entity	exact_mappings	STY:T072
+physical entity	narrow_mappings	STY:T073
+physical entity	is_a	named thing
+physical entity	mixins	physical essence
+occurrent	exact_mappings	BFO:0000003
+occurrent	is_a	physical essence or occurrent
+activity and behavior	exact_mappings	UMLSSG:ACTI
+activity and behavior	is_a	occurrent
+activity	exact_mappings	prov:Activity
+activity	exact_mappings	NCIT:C43431
+activity	exact_mappings	STY:T052
+activity	narrow_mappings	STY:T056
+activity	narrow_mappings	STY:T057
+activity	narrow_mappings	STY:T064
+activity	narrow_mappings	STY:T066
+activity	narrow_mappings	STY:T062
+activity	narrow_mappings	STY:T065
+activity	narrow_mappings	STY:T058
+activity	is_a	named thing
+activity	mixins	activity and behavior
+procedure	exact_mappings	UMLSSG:PROC
+procedure	exact_mappings	dcid:MedicalProcedure
+procedure	narrow_mappings	STY:T059
+procedure	narrow_mappings	STY:T060
+procedure	narrow_mappings	STY:T061
+procedure	narrow_mappings	STY:T063
+procedure	is_a	named thing
+procedure	mixins	activity and behavior
+phenomenon	exact_mappings	UMLSSG:PHEN
+phenomenon	narrow_mappings	STY:T034
+phenomenon	narrow_mappings	STY:T038
+phenomenon	narrow_mappings	STY:T069
+phenomenon	is_a	named thing
+phenomenon	broad_mappings	STY:T067
+phenomenon	broad_mappings	STY:T068
+phenomenon	broad_mappings	STY:T070
+phenomenon	mixins	occurrent
+device	narrow_mappings	UMLSSG:DEVI
+device	narrow_mappings	STY:T074
+device	narrow_mappings	STY:T075
+device	narrow_mappings	STY:T203
+device	narrow_mappings	STY:T122
+device	is_a	named thing
+diagnostic aid	exact_mappings	STY:T130
+diagnostic aid	exact_mappings	SNOMED:2949005
+diagnostic aid	is_a	named thing
+study population	close_mappings	WIKIDATA:Q7229825
+study population	is_a	population of individual organisms
+biospecimen	exact_mappings	OBI:0000747
+sample	exact_mappings	OBI:0000747
+biosample	exact_mappings	OBI:0000747
+physical sample	exact_mappings	OBI:0000747
+material sample	exact_mappings	OBI:0000747
+biospecimen	exact_mappings	SIO:001050
+sample	exact_mappings	SIO:001050
+biosample	exact_mappings	SIO:001050
+physical sample	exact_mappings	SIO:001050
+material sample	exact_mappings	SIO:001050
+biospecimen	is_a	physical entity
+sample	is_a	physical entity
+biosample	is_a	physical entity
+physical sample	is_a	physical entity
+material sample	is_a	physical entity
+biospecimen	mixins	subject of investigation
+sample	mixins	subject of investigation
+biosample	mixins	subject of investigation
+physical sample	mixins	subject of investigation
+material sample	mixins	subject of investigation
+planetary entity	is_a	named thing
+environmental process	exact_mappings	ENVO:02500000
+environmental process	is_a	planetary entity
+environmental process	mixins	occurrent
+environmental feature	exact_mappings	ENVO:01000254
+environmental feature	is_a	planetary entity
+geographic location	exact_mappings	UMLSSG:GEOG
+geographic location	exact_mappings	STY:T083
+geographic location	is_a	planetary entity
+geographic location	slots	latitude
+geographic location	slots	longitude
+geographic location at time	is_a	geographic location
+geographic location at time	slots	timepoint
+thing with taxon	slots	in taxon
+thing with taxon	slots	in taxon label
+bioentity	narrow_mappings	WIKIDATA:Q28845870
+biological entity	narrow_mappings	WIKIDATA:Q28845870
+bioentity	narrow_mappings	STY:T050
+biological entity	narrow_mappings	STY:T050
+bioentity	narrow_mappings	SIO:010046
+biological entity	narrow_mappings	SIO:010046
+bioentity	narrow_mappings	STY:T129
+biological entity	narrow_mappings	STY:T129
+bioentity	is_a	named thing
+biological entity	is_a	named thing
+bioentity	mixins	thing with taxon
+biological entity	mixins	thing with taxon
+genomic entity	in_subset	translator_minimal
+genomic entity	narrow_mappings	STY:T028
+genomic entity	narrow_mappings	GENO:0000897
+genomic entity	slots	has biological sequence
+epigenomic entity	in_subset	translator_minimal
+epigenomic entity	slots	has biological sequence
+molecular entity	in_subset	translator_minimal
+molecular entity	narrow_mappings	STY:T088
+molecular entity	narrow_mappings	STY:T085
+molecular entity	narrow_mappings	CHEBI:23367
+molecular entity	narrow_mappings	bioschemas:MolecularEntity
+molecular entity	is_a	chemical entity
+molecular entity	slots	is metabolite
+chemical entity	in_subset	translator_minimal
+chemical entity	exact_mappings	CHEBI:24431
+chemical entity	exact_mappings	SIO:010004
+chemical entity	exact_mappings	WIKIDATA:Q79529
+chemical entity	exact_mappings	STY:T103
+chemical entity	narrow_mappings	WIKIDATA:Q43460564
+chemical entity	is_a	named thing
+chemical entity	mixins	physical essence
+chemical entity	mixins	chemical or drug or treatment
+chemical entity	mixins	chemical entity or gene or gene product
+chemical entity	mixins	chemical entity or protein or polypeptide
+chemical entity	slots	trade name
+chemical entity	slots	available from
+chemical entity	slots	max tolerated dose
+chemical entity	slots	is toxic
+chemical entity	slots	has chemical role
+chemical substance	in_subset	model_organism_database
+small molecule	in_subset	model_organism_database
+chemical substance	in_subset	translator_minimal
+small molecule	in_subset	translator_minimal
+chemical substance	narrow_mappings	STY:T196
+small molecule	narrow_mappings	STY:T196
+chemical substance	narrow_mappings	CHEBI:59999
+small molecule	narrow_mappings	CHEBI:59999
+chemical substance	narrow_mappings	bioschemas:ChemicalSubstance
+small molecule	narrow_mappings	bioschemas:ChemicalSubstance
+chemical substance	narrow_mappings	STY:T123
+small molecule	narrow_mappings	STY:T123
+chemical substance	narrow_mappings	STY:T131
+small molecule	narrow_mappings	STY:T131
+chemical substance	narrow_mappings	STY:T125
+small molecule	narrow_mappings	STY:T125
+chemical substance	narrow_mappings	STY:T197
+small molecule	narrow_mappings	STY:T197
+chemical substance	narrow_mappings	STY:T109
+small molecule	narrow_mappings	STY:T109
+chemical substance	narrow_mappings	STY:T118
+small molecule	narrow_mappings	STY:T118
+chemical substance	narrow_mappings	STY:T111
+small molecule	narrow_mappings	STY:T111
+chemical substance	narrow_mappings	STY:T119
+small molecule	narrow_mappings	STY:T119
+chemical substance	narrow_mappings	STY:T124
+small molecule	narrow_mappings	STY:T124
+chemical substance	narrow_mappings	STY:T115
+small molecule	narrow_mappings	STY:T115
+chemical substance	narrow_mappings	STY:T110
+small molecule	narrow_mappings	STY:T110
+chemical substance	narrow_mappings	STY:T127
+small molecule	narrow_mappings	STY:T127
+chemical substance	is_a	molecular entity
+small molecule	is_a	molecular entity
+chemical mixture	in_subset	translator_minimal
+chemical mixture	close_mappings	dcid:ChemicalCompound
+chemical mixture	narrow_mappings	NCIT:C20401
+chemical mixture	narrow_mappings	SNOMEDCT:49616005
+chemical mixture	is_a	chemical entity
+chemical mixture	slots	is supplement
+chemical mixture	slots	highest FDA approval status
+chemical mixture	slots	drug regulatory status world wide
+chemical mixture	slots	routes of delivery
+sequence feature	in_subset	model_organism_database
+genomic entity	in_subset	model_organism_database
+nucleic acid entity	in_subset	model_organism_database
+sequence feature	in_subset	translator_minimal
+nucleic acid entity	in_subset	translator_minimal
+sequence feature	exact_mappings	SO:0000110
+genomic entity	exact_mappings	SO:0000110
+nucleic acid entity	exact_mappings	SO:0000110
+sequence feature	narrow_mappings	STY:T086
+genomic entity	narrow_mappings	STY:T086
+nucleic acid entity	narrow_mappings	STY:T086
+sequence feature	narrow_mappings	STY:T114
+genomic entity	narrow_mappings	STY:T114
+nucleic acid entity	narrow_mappings	STY:T114
+sequence feature	is_a	molecular entity
+genomic entity	is_a	molecular entity
+nucleic acid entity	is_a	molecular entity
+sequence feature	mixins	genomic entity
+genomic entity	mixins	genomic entity
+nucleic acid entity	mixins	genomic entity
+sequence feature	mixins	thing with taxon
+genomic entity	mixins	thing with taxon
+nucleic acid entity	mixins	thing with taxon
+sequence feature	mixins	physical essence
+genomic entity	mixins	physical essence
+nucleic acid entity	mixins	physical essence
+sequence feature	mixins	ontology class
+genomic entity	mixins	ontology class
+nucleic acid entity	mixins	ontology class
+regulatory element	exact_mappings	SO:0005836
+regulatory region	exact_mappings	SO:0005836
+regulatory element	exact_mappings	SIO:001225
+regulatory region	exact_mappings	SIO:001225
+regulatory element	exact_mappings	WIKIDATA:Q3238407
+regulatory region	exact_mappings	WIKIDATA:Q3238407
+regulatory element	is_a	biological entity
+regulatory region	is_a	biological entity
+regulatory element	mixins	genomic entity
+regulatory region	mixins	genomic entity
+regulatory element	mixins	chemical entity or gene or gene product
+regulatory region	mixins	chemical entity or gene or gene product
+regulatory element	mixins	physical essence
+regulatory region	mixins	physical essence
+regulatory element	mixins	ontology class
+regulatory region	mixins	ontology class
+dnase-seq accessible region	exact_mappings	SO:0002231
+atac-seq accessible region	exact_mappings	SO:0002231
+accessible dna region	exact_mappings	SO:0002231
+dnase-seq accessible region	is_a	regulatory region
+atac-seq accessible region	is_a	regulatory region
+accessible dna region	is_a	regulatory region
+dnase-seq accessible region	mixins	genomic entity
+atac-seq accessible region	mixins	genomic entity
+accessible dna region	mixins	genomic entity
+dnase-seq accessible region	mixins	chemical entity or gene or gene product
+atac-seq accessible region	mixins	chemical entity or gene or gene product
+accessible dna region	mixins	chemical entity or gene or gene product
+dnase-seq accessible region	mixins	physical essence
+atac-seq accessible region	mixins	physical essence
+accessible dna region	mixins	physical essence
+dnase-seq accessible region	mixins	ontology class
+atac-seq accessible region	mixins	ontology class
+accessible dna region	mixins	ontology class
+tf binding site	exact_mappings	SO:0000235
+binding site	exact_mappings	SO:0000235
+transcription factor binding site	exact_mappings	SO:0000235
+tf binding site	is_a	regulatory region
+binding site	is_a	regulatory region
+transcription factor binding site	is_a	regulatory region
+tf binding site	mixins	genomic entity
+binding site	mixins	genomic entity
+transcription factor binding site	mixins	genomic entity
+tf binding site	mixins	chemical entity or gene or gene product
+binding site	mixins	chemical entity or gene or gene product
+transcription factor binding site	mixins	chemical entity or gene or gene product
+tf binding site	mixins	physical essence
+binding site	mixins	physical essence
+transcription factor binding site	mixins	physical essence
+tf binding site	mixins	ontology class
+binding site	mixins	ontology class
+transcription factor binding site	mixins	ontology class
+molecular mixture	in_subset	translator_minimal
+molecular mixture	is_a	chemical mixture
+complex molecular mixture	in_subset	translator_minimal
+complex molecular mixture	is_a	chemical mixture
+biological process or activity	is_a	biological entity
+biological process or activity	mixins	occurrent
+biological process or activity	mixins	ontology class
+biological process or activity	slots	has input
+biological process or activity	slots	has output
+biological process or activity	slots	enabled by
+molecular function	exact_mappings	GO:0003674
+molecular event	exact_mappings	GO:0003674
+reaction	exact_mappings	GO:0003674
+molecular activity	exact_mappings	GO:0003674
+molecular function	exact_mappings	STY:T044
+molecular event	exact_mappings	STY:T044
+reaction	exact_mappings	STY:T044
+molecular activity	exact_mappings	STY:T044
+molecular function	is_a	biological process or activity
+molecular event	is_a	biological process or activity
+reaction	is_a	biological process or activity
+molecular activity	is_a	biological process or activity
+molecular function	broad_mappings	STY:T045
+molecular event	broad_mappings	STY:T045
+reaction	broad_mappings	STY:T045
+molecular activity	broad_mappings	STY:T045
+molecular function	mixins	occurrent
+molecular event	mixins	occurrent
+reaction	mixins	occurrent
+molecular activity	mixins	occurrent
+molecular function	mixins	ontology class
+molecular event	mixins	ontology class
+reaction	mixins	ontology class
+molecular activity	mixins	ontology class
+biological process	exact_mappings	GO:0008150
+biological process	exact_mappings	SIO:000006
+biological process	exact_mappings	WIKIDATA:Q2996394
+biological process	is_a	biological process or activity
+biological process	broad_mappings	WIKIDATA:P682
+biological process	mixins	occurrent
+biological process	mixins	ontology class
+pathway	exact_mappings	PW:0000001
+pathway	exact_mappings	WIKIDATA:Q4915012
+pathway	narrow_mappings	SIO:010526
+pathway	narrow_mappings	GO:0007165
+pathway	is_a	biological process
+pathway	mixins	ontology class
+physiology	exact_mappings	STY:T039
+physiological process	exact_mappings	STY:T039
+physiology	exact_mappings	WIKIDATA:Q30892994
+physiological process	exact_mappings	WIKIDATA:Q30892994
+physiology	narrow_mappings	STY:T040
+physiological process	narrow_mappings	STY:T040
+physiology	narrow_mappings	STY:T042
+physiological process	narrow_mappings	STY:T042
+physiology	narrow_mappings	STY:T043
+physiological process	narrow_mappings	STY:T043
+physiology	narrow_mappings	STY:T045
+physiological process	narrow_mappings	STY:T045
+physiology	is_a	biological process
+physiological process	is_a	biological process
+physiology	mixins	ontology class
+physiological process	mixins	ontology class
+behavior	exact_mappings	GO:0007610
+behavior	exact_mappings	STY:T053
+behavior	narrow_mappings	STY:T041
+behavior	narrow_mappings	STY:T054
+behavior	narrow_mappings	STY:T055
+behavior	is_a	biological process
+behavior	mixins	ontology class
+behavior	mixins	activity and behavior
+processed material	exact_mappings	OBI:0000047
+processed material	is_a	chemical mixture
+drug	exact_mappings	WIKIDATA:Q12140
+drug	exact_mappings	CHEBI:23888
+drug	exact_mappings	STY:T200
+drug	exact_mappings	dcid:Drug
+drug	narrow_mappings	STY:T195
+drug	is_a	molecular mixture
+drug	broad_mappings	STY:T121
+drug	mixins	chemical or drug or treatment
+drug	mixins	ontology class
+environmental food contaminant	is_a	chemical entity
+environmental food contaminant	related_mappings	CHEBI:78299
+food additive	is_a	chemical entity
+food additive	related_mappings	CHEBI:64047
+food	exact_mappings	STY:T168
+food	is_a	chemical mixture
+organism attribute	exact_mappings	STY:T032
+organism attribute	is_a	attribute
+phenotypic properties	is_a	organism attribute
+phenotypic quality	is_a	organism attribute
+phenotypic properties	mappings	PATO:0000001
+phenotypic quality	mappings	PATO:0000001
+inheritance	close_mappings	STY:T045
+genetic inheritance	close_mappings	STY:T045
+inheritance	exact_mappings	HP:0000005
+genetic inheritance	exact_mappings	HP:0000005
+inheritance	exact_mappings	GENO:0000141
+genetic inheritance	exact_mappings	GENO:0000141
+inheritance	exact_mappings	NCIT:C45827
+genetic inheritance	exact_mappings	NCIT:C45827
+inheritance	is_a	biological entity
+genetic inheritance	is_a	biological entity
+organismal entity	exact_mappings	WIKIDATA:Q7239
+organismal entity	exact_mappings	UMLSSG:LIVB
+organismal entity	exact_mappings	CARO:0001010
+organismal entity	narrow_mappings	STY:T008
+organismal entity	is_a	biological entity
+organismal entity	mixins	subject of investigation
+bacterium	exact_mappings	NCBITaxon:1869227
+bacterium	exact_mappings	STY:T007
+bacterium	is_a	organismal entity
+virus	exact_mappings	NCBITaxon:10239
+virus	exact_mappings	STY:T005
+virus	is_a	organismal entity
+virus	mixins	subject of investigation
+cellular organism	exact_mappings	NCBITaxon:131567
+cellular organism	is_a	organismal entity
+cellular organism	mixins	subject of investigation
+mammal	exact_mappings	NCBITaxon:40674
+mammal	exact_mappings	STY:T015
+mammal	exact_mappings	NCIT:C14234
+mammal	exact_mappings	FOODON:03411134
+mammal	is_a	cellular organism
+mammal	mixins	subject of investigation
+human	exact_mappings	STY:T016
+human	exact_mappings	NCBITaxon:9606
+human	exact_mappings	SIO:000485
+human	exact_mappings	NCIT:C14225
+human	is_a	mammal
+human	mixins	subject of investigation
+plant	exact_mappings	NCIT:C14258
+plant	exact_mappings	STY:T002
+plant	exact_mappings	PO:0000003
+plant	exact_mappings	NCIT:C79659
+plant	is_a	cellular organism
+invertebrate	exact_mappings	NCIT:C14228
+invertebrate	exact_mappings	OMIT:0008565
+invertebrate	exact_mappings	FOODON:00002452
+invertebrate	exact_mappings	STY:T011
+invertebrate	is_a	cellular organism
+invertebrate	related_mappings	NCBITaxon:1767184
+vertebrate	exact_mappings	STY:T010
+vertebrate	exact_mappings	NCBITaxon:7742
+vertebrate	exact_mappings	OMIT:0015545
+vertebrate	is_a	cellular organism
+vertebrate	related_mappings	NCBITaxon:2662825
+fungus	exact_mappings	STY:T004
+fungus	exact_mappings	NCIT:C14209
+fungus	exact_mappings	FOODON:03411261
+fungus	narrow_mappings	FOODON:03315605
+fungus	narrow_mappings	NCBITaxon:1670606
+fungus	is_a	cellular organism
+life stage	in_subset	model_organism_database
+life stage	exact_mappings	UBERON:0000105
+life stage	narrow_mappings	HsapDv:0000000
+life stage	is_a	organismal entity
+organism	exact_mappings	SIO:010000
+individual organism	exact_mappings	SIO:010000
+organism	exact_mappings	STY:T001
+individual organism	exact_mappings	STY:T001
+organism	narrow_mappings	WIKIDATA:Q795052
+individual organism	narrow_mappings	WIKIDATA:Q795052
+organism	narrow_mappings	foaf:Person
+individual organism	narrow_mappings	foaf:Person
+organism	is_a	organismal entity
+individual organism	is_a	organismal entity
+organism	mixins	subject of investigation
+individual organism	mixins	subject of investigation
+population of individual organisms	in_subset	model_organism_database
+population of individual organisms	exact_mappings	PCO:0000001
+population of individual organisms	exact_mappings	SIO:001061
+population of individual organisms	exact_mappings	STY:T098
+population of individual organisms	exact_mappings	OBI:0000181
+population of individual organisms	is_a	organismal entity
+population of individual organisms	mixins	subject of investigation
+phenome	narrow_mappings	STY:T033
+disease or phenotypic feature	narrow_mappings	STY:T033
+phenome	is_a	biological entity
+disease or phenotypic feature	is_a	biological entity
+phenome	union_of	disease
+disease or phenotypic feature	union_of	disease
+phenome	union_of	phenotypic feature
+disease or phenotypic feature	union_of	phenotypic feature
+condition	in_subset	model_organism_database
+disorder	in_subset	model_organism_database
+medical condition	in_subset	model_organism_database
+disease	in_subset	model_organism_database
+condition	in_subset	translator_minimal
+disorder	in_subset	translator_minimal
+medical condition	in_subset	translator_minimal
+disease	in_subset	translator_minimal
+condition	exact_mappings	MONDO:0000001
+disorder	exact_mappings	MONDO:0000001
+medical condition	exact_mappings	MONDO:0000001
+disease	exact_mappings	MONDO:0000001
+condition	exact_mappings	DOID:4
+disorder	exact_mappings	DOID:4
+medical condition	exact_mappings	DOID:4
+disease	exact_mappings	DOID:4
+condition	exact_mappings	NCIT:C2991
+disorder	exact_mappings	NCIT:C2991
+medical condition	exact_mappings	NCIT:C2991
+disease	exact_mappings	NCIT:C2991
+condition	exact_mappings	WIKIDATA:Q12136
+disorder	exact_mappings	WIKIDATA:Q12136
+medical condition	exact_mappings	WIKIDATA:Q12136
+disease	exact_mappings	WIKIDATA:Q12136
+condition	exact_mappings	SIO:010299
+disorder	exact_mappings	SIO:010299
+medical condition	exact_mappings	SIO:010299
+disease	exact_mappings	SIO:010299
+condition	exact_mappings	UMLSSG:DISO
+disorder	exact_mappings	UMLSSG:DISO
+medical condition	exact_mappings	UMLSSG:DISO
+disease	exact_mappings	UMLSSG:DISO
+condition	exact_mappings	STY:T047
+disorder	exact_mappings	STY:T047
+medical condition	exact_mappings	STY:T047
+disease	exact_mappings	STY:T047
+condition	exact_mappings	dcid:Disease
+disorder	exact_mappings	dcid:Disease
+medical condition	exact_mappings	dcid:Disease
+disease	exact_mappings	dcid:Disease
+condition	narrow_mappings	STY:T019
+disorder	narrow_mappings	STY:T019
+medical condition	narrow_mappings	STY:T019
+disease	narrow_mappings	STY:T019
+condition	narrow_mappings	STY:T020
+disorder	narrow_mappings	STY:T020
+medical condition	narrow_mappings	STY:T020
+disease	narrow_mappings	STY:T020
+condition	narrow_mappings	STY:T048
+disorder	narrow_mappings	STY:T048
+medical condition	narrow_mappings	STY:T048
+disease	narrow_mappings	STY:T048
+condition	narrow_mappings	STY:T049
+disorder	narrow_mappings	STY:T049
+medical condition	narrow_mappings	STY:T049
+disease	narrow_mappings	STY:T049
+condition	narrow_mappings	STY:T190
+disorder	narrow_mappings	STY:T190
+medical condition	narrow_mappings	STY:T190
+disease	narrow_mappings	STY:T190
+condition	narrow_mappings	STY:T191
+disorder	narrow_mappings	STY:T191
+medical condition	narrow_mappings	STY:T191
+disease	narrow_mappings	STY:T191
+condition	narrow_mappings	MONDO:0042489
+disorder	narrow_mappings	MONDO:0042489
+medical condition	narrow_mappings	MONDO:0042489
+disease	narrow_mappings	MONDO:0042489
+condition	is_a	disease or phenotypic feature
+disorder	is_a	disease or phenotypic feature
+medical condition	is_a	disease or phenotypic feature
+disease	is_a	disease or phenotypic feature
+sign	in_subset	model_organism_database
+symptom	in_subset	model_organism_database
+phenotype	in_subset	model_organism_database
+trait	in_subset	model_organism_database
+endophenotype	in_subset	model_organism_database
+phenotypic feature	in_subset	model_organism_database
+sign	exact_mappings	UPHENO:0001001
+symptom	exact_mappings	UPHENO:0001001
+phenotype	exact_mappings	UPHENO:0001001
+trait	exact_mappings	UPHENO:0001001
+endophenotype	exact_mappings	UPHENO:0001001
+phenotypic feature	exact_mappings	UPHENO:0001001
+sign	exact_mappings	SIO:010056
+symptom	exact_mappings	SIO:010056
+phenotype	exact_mappings	SIO:010056
+trait	exact_mappings	SIO:010056
+endophenotype	exact_mappings	SIO:010056
+phenotypic feature	exact_mappings	SIO:010056
+sign	exact_mappings	WIKIDATA:Q104053
+symptom	exact_mappings	WIKIDATA:Q104053
+phenotype	exact_mappings	WIKIDATA:Q104053
+trait	exact_mappings	WIKIDATA:Q104053
+endophenotype	exact_mappings	WIKIDATA:Q104053
+phenotypic feature	exact_mappings	WIKIDATA:Q104053
+sign	exact_mappings	UMLS:C4021819
+symptom	exact_mappings	UMLS:C4021819
+phenotype	exact_mappings	UMLS:C4021819
+trait	exact_mappings	UMLS:C4021819
+endophenotype	exact_mappings	UMLS:C4021819
+phenotypic feature	exact_mappings	UMLS:C4021819
+sign	exact_mappings	NCIT:C16977
+symptom	exact_mappings	NCIT:C16977
+phenotype	exact_mappings	NCIT:C16977
+trait	exact_mappings	NCIT:C16977
+endophenotype	exact_mappings	NCIT:C16977
+phenotypic feature	exact_mappings	NCIT:C16977
+sign	exact_mappings	SNOMEDCT:8116006
+symptom	exact_mappings	SNOMEDCT:8116006
+phenotype	exact_mappings	SNOMEDCT:8116006
+trait	exact_mappings	SNOMEDCT:8116006
+endophenotype	exact_mappings	SNOMEDCT:8116006
+phenotypic feature	exact_mappings	SNOMEDCT:8116006
+sign	exact_mappings	MESH:D010641
+symptom	exact_mappings	MESH:D010641
+phenotype	exact_mappings	MESH:D010641
+trait	exact_mappings	MESH:D010641
+endophenotype	exact_mappings	MESH:D010641
+phenotypic feature	exact_mappings	MESH:D010641
+sign	narrow_mappings	STY:T184
+symptom	narrow_mappings	STY:T184
+phenotype	narrow_mappings	STY:T184
+trait	narrow_mappings	STY:T184
+endophenotype	narrow_mappings	STY:T184
+phenotypic feature	narrow_mappings	STY:T184
+sign	narrow_mappings	WIKIDATA:Q169872
+symptom	narrow_mappings	WIKIDATA:Q169872
+phenotype	narrow_mappings	WIKIDATA:Q169872
+trait	narrow_mappings	WIKIDATA:Q169872
+endophenotype	narrow_mappings	WIKIDATA:Q169872
+phenotypic feature	narrow_mappings	WIKIDATA:Q169872
+sign	narrow_mappings	WIKIDATA:Q25203551
+symptom	narrow_mappings	WIKIDATA:Q25203551
+phenotype	narrow_mappings	WIKIDATA:Q25203551
+trait	narrow_mappings	WIKIDATA:Q25203551
+endophenotype	narrow_mappings	WIKIDATA:Q25203551
+phenotypic feature	narrow_mappings	WIKIDATA:Q25203551
+sign	narrow_mappings	ZP:00000000
+symptom	narrow_mappings	ZP:00000000
+phenotype	narrow_mappings	ZP:00000000
+trait	narrow_mappings	ZP:00000000
+endophenotype	narrow_mappings	ZP:00000000
+phenotypic feature	narrow_mappings	ZP:00000000
+sign	narrow_mappings	FBcv:0001347
+symptom	narrow_mappings	FBcv:0001347
+phenotype	narrow_mappings	FBcv:0001347
+trait	narrow_mappings	FBcv:0001347
+endophenotype	narrow_mappings	FBcv:0001347
+phenotypic feature	narrow_mappings	FBcv:0001347
+sign	narrow_mappings	HP:0000118
+symptom	narrow_mappings	HP:0000118
+phenotype	narrow_mappings	HP:0000118
+trait	narrow_mappings	HP:0000118
+endophenotype	narrow_mappings	HP:0000118
+phenotypic feature	narrow_mappings	HP:0000118
+sign	narrow_mappings	MP:0000001
+symptom	narrow_mappings	MP:0000001
+phenotype	narrow_mappings	MP:0000001
+trait	narrow_mappings	MP:0000001
+endophenotype	narrow_mappings	MP:0000001
+phenotypic feature	narrow_mappings	MP:0000001
+sign	narrow_mappings	WBPhenotype:0000886
+symptom	narrow_mappings	WBPhenotype:0000886
+phenotype	narrow_mappings	WBPhenotype:0000886
+trait	narrow_mappings	WBPhenotype:0000886
+endophenotype	narrow_mappings	WBPhenotype:0000886
+phenotypic feature	narrow_mappings	WBPhenotype:0000886
+sign	narrow_mappings	XPO:00000000
+symptom	narrow_mappings	XPO:00000000
+phenotype	narrow_mappings	XPO:00000000
+trait	narrow_mappings	XPO:00000000
+endophenotype	narrow_mappings	XPO:00000000
+phenotypic feature	narrow_mappings	XPO:00000000
+sign	narrow_mappings	FYPO:0000001
+symptom	narrow_mappings	FYPO:0000001
+phenotype	narrow_mappings	FYPO:0000001
+trait	narrow_mappings	FYPO:0000001
+endophenotype	narrow_mappings	FYPO:0000001
+phenotypic feature	narrow_mappings	FYPO:0000001
+sign	narrow_mappings	APO:0000017
+symptom	narrow_mappings	APO:0000017
+phenotype	narrow_mappings	APO:0000017
+trait	narrow_mappings	APO:0000017
+endophenotype	narrow_mappings	APO:0000017
+phenotypic feature	narrow_mappings	APO:0000017
+sign	narrow_mappings	TO:0000387
+symptom	narrow_mappings	TO:0000387
+phenotype	narrow_mappings	TO:0000387
+trait	narrow_mappings	TO:0000387
+endophenotype	narrow_mappings	TO:0000387
+phenotypic feature	narrow_mappings	TO:0000387
+sign	is_a	disease or phenotypic feature
+symptom	is_a	disease or phenotypic feature
+phenotype	is_a	disease or phenotypic feature
+trait	is_a	disease or phenotypic feature
+endophenotype	is_a	disease or phenotypic feature
+phenotypic feature	is_a	disease or phenotypic feature
+sign	broad_mappings	BFO:0000019
+symptom	broad_mappings	BFO:0000019
+phenotype	broad_mappings	BFO:0000019
+trait	broad_mappings	BFO:0000019
+endophenotype	broad_mappings	BFO:0000019
+phenotypic feature	broad_mappings	BFO:0000019
+sign	broad_mappings	PATO:0000001
+symptom	broad_mappings	PATO:0000001
+phenotype	broad_mappings	PATO:0000001
+trait	broad_mappings	PATO:0000001
+endophenotype	broad_mappings	PATO:0000001
+phenotypic feature	broad_mappings	PATO:0000001
+behavioral feature	exact_mappings	NBO:0000243
+behavioral feature	is_a	phenotypic feature
+anatomical entity	in_subset	model_organism_database
+anatomical entity	exact_mappings	UBERON:0001062
+anatomical entity	exact_mappings	WIKIDATA:Q4936952
+anatomical entity	exact_mappings	UMLSSG:ANAT
+anatomical entity	exact_mappings	STY:T017
+anatomical entity	exact_mappings	FMA:62955
+anatomical entity	exact_mappings	CARO:0000000
+anatomical entity	exact_mappings	SIO:001262
+anatomical entity	exact_mappings	STY:T029
+anatomical entity	exact_mappings	STY:T030
+anatomical entity	narrow_mappings	ZFA:0100000
+anatomical entity	narrow_mappings	FBbt:10000000
+anatomical entity	narrow_mappings	EMAPA:0
+anatomical entity	narrow_mappings	MA:0000001
+anatomical entity	narrow_mappings	XAO:0000000
+anatomical entity	narrow_mappings	WBbt:0000100
+anatomical entity	narrow_mappings	NCIT:C12219
+anatomical entity	narrow_mappings	GO:0110165
+anatomical entity	narrow_mappings	STY:T031
+anatomical entity	is_a	organismal entity
+anatomical entity	mixins	physical essence
+anatomical entity	related_mappings	SNOMEDCT:123037004
+cell component	exact_mappings	GO:0005575
+cell part	exact_mappings	GO:0005575
+cellular component	exact_mappings	GO:0005575
+cell component	exact_mappings	SIO:001400
+cell part	exact_mappings	SIO:001400
+cellular component	exact_mappings	SIO:001400
+cell component	exact_mappings	WIKIDATA:Q5058355
+cell part	exact_mappings	WIKIDATA:Q5058355
+cellular component	exact_mappings	WIKIDATA:Q5058355
+cell component	exact_mappings	STY:T026
+cell part	exact_mappings	STY:T026
+cellular component	exact_mappings	STY:T026
+cell component	is_a	anatomical entity
+cell part	is_a	anatomical entity
+cellular component	is_a	anatomical entity
+cell component	broad_mappings	WIKIDATA:P681
+cell part	broad_mappings	WIKIDATA:P681
+cellular component	broad_mappings	WIKIDATA:P681
+cell	exact_mappings	GO:0005623
+cell	exact_mappings	CL:0000000
+cell	exact_mappings	SIO:010001
+cell	exact_mappings	WIKIDATA:Q7868
+cell	exact_mappings	STY:T025
+cell	exact_mappings	MESH:D002477
+cell	is_a	anatomical entity
+cell line	exact_mappings	CLO:0000031
+cell line	is_a	organismal entity
+cell line	mixins	subject of investigation
+tissue	exact_mappings	UBERON:0010000
+organ	exact_mappings	UBERON:0010000
+gross anatomical structure	exact_mappings	UBERON:0010000
+tissue	exact_mappings	WIKIDATA:Q4936952
+organ	exact_mappings	WIKIDATA:Q4936952
+gross anatomical structure	exact_mappings	WIKIDATA:Q4936952
+tissue	narrow_mappings	STY:T023
+organ	narrow_mappings	STY:T023
+gross anatomical structure	narrow_mappings	STY:T023
+tissue	narrow_mappings	STY:T024
+organ	narrow_mappings	STY:T024
+gross anatomical structure	narrow_mappings	STY:T024
+tissue	narrow_mappings	STY:T018
+organ	narrow_mappings	STY:T018
+gross anatomical structure	narrow_mappings	STY:T018
+tissue	is_a	anatomical entity
+organ	is_a	anatomical entity
+gross anatomical structure	is_a	anatomical entity
+macromolecular machine mixin	slots	name
+gene or gene product	is_a	macromolecular machine mixin
+gene	in_subset	translator_minimal
+gene	in_subset	model_organism_database
+gene	exact_mappings	SO:0000704
+gene	exact_mappings	SIO:010035
+gene	exact_mappings	WIKIDATA:Q7187
+gene	exact_mappings	dcid:Gene
+gene	narrow_mappings	bioschemas:gene
+gene	is_a	biological entity
+gene	broad_mappings	NCIT:C45822
+gene	mixins	gene or gene product
+gene	mixins	genomic entity
+gene	mixins	chemical entity or gene or gene product
+gene	mixins	physical essence
+gene	mixins	ontology class
+gene	slots	symbol
+gene	slots	synonym
+gene	slots	xref
+gene product mixin	exact_mappings	WIKIDATA:Q424689
+gene product mixin	exact_mappings	GENO:0000907
+gene product mixin	exact_mappings	NCIT:C26548
+gene product mixin	is_a	gene or gene product
+gene product mixin	slots	synonym
+gene product mixin	slots	xref
+gene product isoform mixin	is_a	gene product mixin
+macromolecular complex	in_subset	model_organism_database
+macromolecular complex	exact_mappings	GO:0032991
+macromolecular complex	exact_mappings	WIKIDATA:Q22325163
+macromolecular complex	is_a	biological entity
+macromolecular complex	mixins	macromolecular machine mixin
+nucleosome modification	is_a	biological entity
+nucleosome modification	mixins	gene product isoform mixin
+nucleosome modification	mixins	genomic entity
+nucleosome modification	mixins	epigenomic entity
+genome	in_subset	model_organism_database
+genome	close_mappings	dcid:GenomeAssemblyUnit
+genome	exact_mappings	SO:0001026
+genome	exact_mappings	SIO:000984
+genome	exact_mappings	WIKIDATA:Q7020
+genome	is_a	biological entity
+genome	mixins	genomic entity
+genome	mixins	physical essence
+genome	mixins	ontology class
+exon	exact_mappings	SO:0000147
+exon	exact_mappings	SIO:010445
+exon	exact_mappings	WIKIDATA:Q373027
+exon	is_a	nucleic acid entity
+transcript	in_subset	model_organism_database
+transcript	exact_mappings	SO:0000673
+transcript	exact_mappings	SIO:010450
+transcript	exact_mappings	WIKIDATA:Q7243183
+transcript	exact_mappings	dcid:RNATranscript
+transcript	is_a	nucleic acid entity
+coding sequence	exact_mappings	SO:0000316
+coding sequence	exact_mappings	SIO:001390
+coding sequence	is_a	nucleic acid entity
+amino acid entity	in_subset	model_organism_database
+polypeptide	in_subset	model_organism_database
+amino acid entity	narrow_mappings	SO:0000104
+polypeptide	narrow_mappings	SO:0000104
+amino acid entity	narrow_mappings	STY:T116
+polypeptide	narrow_mappings	STY:T116
+amino acid entity	narrow_mappings	STY:T087
+polypeptide	narrow_mappings	STY:T087
+amino acid entity	is_a	biological entity
+polypeptide	is_a	biological entity
+amino acid entity	mixins	chemical entity or gene or gene product
+polypeptide	mixins	chemical entity or gene or gene product
+amino acid entity	mixins	chemical entity or protein or polypeptide
+polypeptide	mixins	chemical entity or protein or polypeptide
+protein	exact_mappings	PR:000000001
+protein	exact_mappings	SIO:010043
+protein	exact_mappings	WIKIDATA:Q8054
+protein	narrow_mappings	STY:T126
+protein	narrow_mappings	STY:T192
+protein	is_a	polypeptide
+protein	broad_mappings	bioschemas:Protein
+protein	mixins	gene product mixin
+proteoform	is_a	protein
+protein isoform	is_a	protein
+proteoform	mixins	gene product isoform mixin
+protein isoform	mixins	gene product isoform mixin
+protein domain	exact_mappings	NCIT:C13379
+protein domain	exact_mappings	SIO:001379
+protein domain	exact_mappings	UMLS:C1514562
+protein domain	is_a	biological entity
+protein domain	mixins	gene grouping mixin
+protein domain	mixins	chemical entity or gene or gene product
+posttranslational modification	is_a	biological entity
+posttranslational modification	mixins	gene product isoform mixin
+protein family	exact_mappings	NCIT:C26004
+protein family	exact_mappings	WIKIDATA:Q2278983
+protein family	narrow_mappings	SIO:001380
+protein family	narrow_mappings	NCIT:C20130
+protein family	narrow_mappings	WIKIDATA:Q417841
+protein family	is_a	biological entity
+protein family	mixins	gene grouping mixin
+protein family	mixins	chemical entity or gene or gene product
+consensus sequence	is_a	biological entity
+nucleic acid sequence motif	is_a	biological entity
+RNA product	exact_mappings	CHEBI:33697
+RNA product	exact_mappings	WIKIDATA:Q11053
+RNA product	is_a	transcript
+RNA product	mixins	gene product mixin
+RNA product isoform	is_a	RNA product
+RNA product isoform	mixins	gene product isoform mixin
+noncoding RNA product	exact_mappings	SO:0000655
+noncoding RNA product	exact_mappings	SIO:001235
+noncoding RNA product	is_a	RNA product
+microRNA	in_subset	model_organism_database
+microRNA	exact_mappings	SO:0000276
+microRNA	exact_mappings	SIO:001397
+microRNA	exact_mappings	WIKIDATA:Q310899
+microRNA	is_a	noncoding RNA product
+small interfering RNA	in_subset	model_organism_database
+RNAi	in_subset	model_organism_database
+siRNA	in_subset	model_organism_database
+small interfering RNA	exact_mappings	SO:0000646
+RNAi	exact_mappings	SO:0000646
+siRNA	exact_mappings	SO:0000646
+small interfering RNA	exact_mappings	WIKIDATA:Q203221
+RNAi	exact_mappings	WIKIDATA:Q203221
+siRNA	exact_mappings	WIKIDATA:Q203221
+small interfering RNA	is_a	noncoding RNA product
+RNAi	is_a	noncoding RNA product
+siRNA	is_a	noncoding RNA product
+gene grouping mixin	slots	has gene or gene product
+orthogroup	in_subset	model_organism_database
+protein family	in_subset	model_organism_database
+gene family	in_subset	model_organism_database
+orthogroup	exact_mappings	NCIT:C26004
+gene family	exact_mappings	NCIT:C26004
+orthogroup	exact_mappings	WIKIDATA:Q2278983
+gene family	exact_mappings	WIKIDATA:Q2278983
+orthogroup	narrow_mappings	SIO:001380
+gene family	narrow_mappings	SIO:001380
+orthogroup	narrow_mappings	NCIT:C20130
+gene family	narrow_mappings	NCIT:C20130
+orthogroup	narrow_mappings	WIKIDATA:Q417841
+gene family	narrow_mappings	WIKIDATA:Q417841
+orthogroup	is_a	biological entity
+gene family	is_a	biological entity
+orthogroup	mixins	gene grouping mixin
+gene family	mixins	gene grouping mixin
+orthogroup	mixins	chemical entity or gene or gene product
+gene family	mixins	chemical entity or gene or gene product
+zygosity	exact_mappings	GENO:0000133
+zygosity	is_a	attribute
+genotype	in_subset	model_organism_database
+genotype	exact_mappings	GENO:0000536
+genotype	exact_mappings	SIO:001079
+genotype	is_a	biological entity
+genotype	mixins	physical essence
+genotype	mixins	genomic entity
+genotype	mixins	ontology class
+genotype	slots	has zygosity
+haplotype	exact_mappings	GENO:0000871
+haplotype	exact_mappings	SO:0001024
+haplotype	exact_mappings	VMC:Haplotype
+haplotype	is_a	biological entity
+haplotype	mixins	genomic entity
+haplotype	mixins	physical essence
+haplotype	mixins	ontology class
+allele	in_subset	model_organism_database
+sequence variant	in_subset	model_organism_database
+allele	close_mappings	dcid:Allele
+sequence variant	close_mappings	dcid:Allele
+allele	close_mappings	SO:0001060
+sequence variant	close_mappings	SO:0001060
+allele	close_mappings	VMC:Allele
+sequence variant	close_mappings	VMC:Allele
+allele	close_mappings	GENO:0000002
+sequence variant	close_mappings	GENO:0000002
+allele	close_mappings	SIO:010277
+sequence variant	close_mappings	SIO:010277
+allele	exact_mappings	WIKIDATA:Q15304597
+sequence variant	exact_mappings	WIKIDATA:Q15304597
+allele	is_a	biological entity
+sequence variant	is_a	biological entity
+allele	mixins	genomic entity
+sequence variant	mixins	genomic entity
+allele	mixins	physical essence
+sequence variant	mixins	physical essence
+allele	mixins	ontology class
+sequence variant	mixins	ontology class
+allele	slots	has gene
+sequence variant	slots	has gene
+single nucleotide variant	exact_mappings	SO:0001483
+single nucleotide polymorphism	exact_mappings	SO:0001483
+snp	exact_mappings	SO:0001483
+snv	exact_mappings	SO:0001483
+single nucleotide variant	is_a	sequence variant
+single nucleotide polymorphism	is_a	sequence variant
+snp	is_a	sequence variant
+snv	is_a	sequence variant
+sequence targeting reagent	in_subset	model_organism_database
+reagent targeted gene	in_subset	model_organism_database
+sequence targeting reagent	exact_mappings	GENO:0000504
+reagent targeted gene	exact_mappings	GENO:0000504
+sequence targeting reagent	is_a	biological entity
+reagent targeted gene	is_a	biological entity
+sequence targeting reagent	mixins	genomic entity
+reagent targeted gene	mixins	genomic entity
+sequence targeting reagent	mixins	physical essence
+reagent targeted gene	mixins	physical essence
+sequence targeting reagent	mixins	ontology class
+reagent targeted gene	mixins	ontology class
+clinical attribute	exact_mappings	STY:T201
+clinical attribute	is_a	attribute
+clinical measurement	exact_mappings	EFO:0001444
+clinical measurement	is_a	clinical attribute
+clinical modifier	is_a	clinical attribute
+clinical course	exact_mappings	HP:0031797
+clinical course	is_a	clinical attribute
+onset	exact_mappings	HP:0003674
+onset	is_a	clinical course
+clinical entity	is_a	named thing
+clinical trial	is_a	clinical entity
+clinical intervention	is_a	clinical entity
+clinical finding	is_a	phenotypic feature
+hospitalization	exact_mappings	SNOMEDCT:32485007
+hospitalization	exact_mappings	WIKIDATA:Q3140971
+hospitalization	is_a	clinical intervention
+socioeconomic attribute	is_a	attribute
+patient	is_a	individual organism
+proband	is_a	individual organism
+case	is_a	individual organism
+patient	mixins	subject of investigation
+proband	mixins	subject of investigation
+case	mixins	subject of investigation
+cohort	exact_mappings	WIKIDATA:Q1303415
+cohort	narrow_mappings	STY:T097
+cohort	narrow_mappings	STY:T099
+cohort	narrow_mappings	STY:T100
+cohort	narrow_mappings	STY:T101
+cohort	is_a	study population
+cohort	mixins	subject of investigation
+exposure	in_subset	model_organism_database
+experimental condition	in_subset	model_organism_database
+exposure event	in_subset	model_organism_database
+exposure	exact_mappings	XCO:0000000
+experimental condition	exact_mappings	XCO:0000000
+exposure event	exact_mappings	XCO:0000000
+exposure	is_a	ontology class
+experimental condition	is_a	ontology class
+exposure event	is_a	ontology class
+exposure	slots	timepoint
+experimental condition	slots	timepoint
+exposure event	slots	timepoint
+genomic background exposure	is_a	attribute
+genomic background exposure	mixins	exposure event
+genomic background exposure	mixins	gene grouping mixin
+genomic background exposure	mixins	physical essence
+genomic background exposure	mixins	genomic entity
+genomic background exposure	mixins	thing with taxon
+genomic background exposure	mixins	ontology class
+pathological entity mixin	exact_mappings	MPATH:0
+pathological entity mixin	narrow_mappings	HP:0000118
+pathological process	exact_mappings	OBI:1110122
+pathological process	exact_mappings	NCIT:C16956
+pathological process	exact_mappings	MPATH:596
+pathological process	narrow_mappings	NCIT:C19151
+pathological process	narrow_mappings	EFO:0009708
+pathological process	narrow_mappings	STY:T046
+pathological process	narrow_mappings	STY:T037
+pathological process	is_a	biological process
+pathological process	mixins	pathological entity mixin
+pathological process exposure	is_a	attribute
+pathological process exposure	mixins	exposure event
+pathological anatomical structure	exact_mappings	MPATH:603
+pathological anatomical structure	is_a	anatomical entity
+pathological anatomical structure	mixins	pathological entity mixin
+pathological anatomical exposure	is_a	attribute
+pathological anatomical exposure	mixins	exposure event
+disease or phenotypic feature exposure	is_a	attribute
+disease or phenotypic feature exposure	mixins	exposure event
+disease or phenotypic feature exposure	mixins	pathological entity mixin
+chemical exposure	exact_mappings	ECTO:9000000
+chemical exposure	exact_mappings	SIO:001399
+chemical exposure	is_a	attribute
+chemical exposure	mixins	exposure event
+chemical exposure	slots	has quantitative value
+complex chemical exposure	is_a	attribute
+drug intake	exact_mappings	ECTO:0000509
+drug dose	exact_mappings	ECTO:0000509
+medication intake	exact_mappings	ECTO:0000509
+drug exposure	exact_mappings	ECTO:0000509
+drug intake	is_a	chemical exposure
+drug dose	is_a	chemical exposure
+medication intake	is_a	chemical exposure
+drug exposure	is_a	chemical exposure
+drug intake	broad_mappings	SIO:001005
+drug dose	broad_mappings	SIO:001005
+medication intake	broad_mappings	SIO:001005
+drug exposure	broad_mappings	SIO:001005
+drug intake	mixins	exposure event
+drug dose	mixins	exposure event
+medication intake	mixins	exposure event
+drug exposure	mixins	exposure event
+drug to gene interaction exposure	is_a	drug exposure
+drug to gene interaction exposure	mixins	gene grouping mixin
+medical action	exact_mappings	OGMS:0000090
+medical intervention	exact_mappings	OGMS:0000090
+treatment	exact_mappings	OGMS:0000090
+medical action	exact_mappings	SIO:001398
+medical intervention	exact_mappings	SIO:001398
+treatment	exact_mappings	SIO:001398
+medical action	is_a	named thing
+medical intervention	is_a	named thing
+treatment	is_a	named thing
+medical action	broad_mappings	MAXO:0000058
+medical intervention	broad_mappings	MAXO:0000058
+treatment	broad_mappings	MAXO:0000058
+medical action	mixins	exposure event
+medical intervention	mixins	exposure event
+treatment	mixins	exposure event
+medical action	mixins	chemical or drug or treatment
+medical intervention	mixins	chemical or drug or treatment
+treatment	mixins	chemical or drug or treatment
+medical action	slots	has drug
+medical intervention	slots	has drug
+treatment	slots	has drug
+medical action	slots	has device
+medical intervention	slots	has device
+treatment	slots	has device
+medical action	slots	has procedure
+medical intervention	slots	has procedure
+treatment	slots	has procedure
+viral exposure	is_a	attribute
+bacterial exposure	is_a	attribute
+biotic exposure	is_a	attribute
+viral exposure	mixins	exposure event
+bacterial exposure	mixins	exposure event
+biotic exposure	mixins	exposure event
+geographic exposure	close_mappings	dcid:GeologicalEvent
+geographic exposure	narrow_mappings	dcid:IceStoremEvent
+geographic exposure	narrow_mappings	dcid:LakeEffectSnowEvent
+geographic exposure	narrow_mappings	dcid:LandslideEvent
+geographic exposure	narrow_mappings	dcid:MarineDenseFogEvent
+geographic exposure	narrow_mappings	dcid:MarineLighteningEvent
+geographic exposure	narrow_mappings	dcid:MarineStrongWindEvent
+geographic exposure	narrow_mappings	dcid:MarineThunderstormWindEvent
+geographic exposure	narrow_mappings	dcid:StormEvent
+geographic exposure	narrow_mappings	dcid:StormSurgeTideEvent
+geographic exposure	narrow_mappings	dcid:StrongWindEvent
+geographic exposure	narrow_mappings	dcid:ThunderstormWindEvent
+geographic exposure	narrow_mappings	dcid:TornadoEvent
+geographic exposure	narrow_mappings	dcid:TropicalDepressionEvent
+geographic exposure	narrow_mappings	dcid:WinterStoremEvent
+geographic exposure	is_a	environmental exposure
+geographic exposure	mixins	exposure event
+environmental exposure	is_a	attribute
+environmental exposure	mixins	exposure event
+behavioral exposure	is_a	attribute
+behavioral exposure	mixins	exposure event
+socioeconomic exposure	is_a	attribute
+socioeconomic exposure	mixins	exposure event
+pathological process outcome	mixins	outcome
+pathological anatomical outcome	mixins	outcome
+disease or phenotypic feature outcome	mixins	outcome
+behavioral outcome	mixins	outcome
+hospitalization outcome	mixins	outcome
+mortality outcome	mixins	outcome
+epidemiological outcome	mixins	outcome
+epidemiological outcome	related_mappings	NCIT:C19291
+socioeconomic outcome	mixins	outcome
+association	exact_mappings	OBAN:association
+association	exact_mappings	rdf:Statement
+association	exact_mappings	owl:Axiom
+association	is_a	entity
+association	slots	subject
+association	slots	predicate
+association	slots	object
+association	slots	negated
+association	slots	qualifiers
+association	slots	publications
+association	slots	has evidence
+association	slots	knowledge source
+association	slots	primary knowledge source
+association	slots	aggregator knowledge source
+association	slots	timepoint
+association	slots	original subject
+association	slots	original predicate
+association	slots	original object
+association	slots	subject category
+association	slots	object category
+association	slots	subject closure
+association	slots	object closure
+association	slots	subject category closure
+association	slots	object category closure
+association	slots	subject namespace
+association	slots	object namespace
+association	slots	subject label closure
+association	slots	object label closure
+association	slots	retrieval source ids
+chemical entity assesses named thing association	is_a	association
+contributor association	is_a	association
+contributor association	defining_slots	subject
+contributor association	defining_slots	predicate
+contributor association	defining_slots	object
+genotype to genotype part association	is_a	association
+genotype to genotype part association	defining_slots	subject
+genotype to genotype part association	defining_slots	object
+genotype to gene association	is_a	association
+genotype to gene association	defining_slots	subject
+genotype to gene association	defining_slots	object
+genotype to variant association	is_a	association
+genotype to variant association	defining_slots	subject
+genotype to variant association	defining_slots	object
+molecular or genetic interaction	is_a	association
+gene to gene association	is_a	association
+molecular or genetic interaction	defining_slots	subject
+gene to gene association	defining_slots	subject
+molecular or genetic interaction	defining_slots	object
+gene to gene association	defining_slots	object
+gene to gene homology association	is_a	gene to gene association
+gene to gene homology association	defining_slots	subject
+gene to gene homology association	defining_slots	predicate
+gene to gene homology association	defining_slots	object
+gene to gene family association	is_a	association
+gene to gene family association	defining_slots	subject
+gene to gene family association	defining_slots	predicate
+gene to gene family association	defining_slots	object
+gene expression mixin	slots	quantifier qualifier
+gene expression mixin	slots	expression site
+gene expression mixin	slots	stage qualifier
+gene expression mixin	slots	phenotypic state
+gene to gene coexpression association	is_a	gene to gene association
+gene to gene coexpression association	mixins	gene expression mixin
+gene to gene coexpression association	defining_slots	subject
+gene to gene coexpression association	defining_slots	predicate
+gene to gene coexpression association	defining_slots	object
+pairwise gene to gene interaction	narrow_mappings	dcid:ProteinProteinInteraction
+pairwise gene to gene interaction	is_a	gene to gene association
+pairwise gene to gene interaction	defining_slots	subject
+pairwise gene to gene interaction	defining_slots	predicate
+pairwise gene to gene interaction	defining_slots	object
+pairwise molecular interaction	is_a	pairwise gene to gene interaction
+pairwise molecular interaction	defining_slots	subject
+pairwise molecular interaction	defining_slots	predicate
+pairwise molecular interaction	defining_slots	object
+pairwise molecular interaction	slots	interacting molecules category
+cell line to entity association mixin	defining_slots	subject
+cell line to disease or phenotypic feature association	is_a	association
+cell line to disease or phenotypic feature association	mixins	cell line to entity association mixin
+cell line to disease or phenotypic feature association	mixins	entity to disease or phenotypic feature association mixin
+chemical entity to entity association mixin	defining_slots	subject
+drug to entity association mixin	is_a	chemical entity to entity association mixin
+drug to entity association mixin	defining_slots	subject
+chemical to entity association mixin	is_a	chemical entity to entity association mixin
+chemical to entity association mixin	defining_slots	subject
+case to entity association mixin	defining_slots	subject
+chemical to chemical association	is_a	association
+chemical to chemical association	mixins	chemical to entity association mixin
+chemical to chemical association	defining_slots	subject
+chemical to chemical association	defining_slots	object
+reaction to participant association	is_a	chemical to chemical association
+reaction to participant association	defining_slots	subject
+reaction to participant association	defining_slots	predicate
+reaction to participant association	defining_slots	object
+reaction to participant association	slots	stoichiometry
+reaction to participant association	slots	reaction direction
+reaction to participant association	slots	reaction side
+reaction to catalyst association	is_a	reaction to participant association
+chemical to chemical derivation association	is_a	chemical to chemical association
+chemical to chemical derivation association	defining_slots	subject
+chemical to chemical derivation association	defining_slots	predicate
+chemical to chemical derivation association	defining_slots	object
+chemical to chemical derivation association	slots	catalyst qualifier
+chemical to disease or phenotypic feature association	narrow_mappings	SIO:000993
+chemical to disease or phenotypic feature association	is_a	association
+chemical to disease or phenotypic feature association	mixins	chemical to entity association mixin
+chemical to disease or phenotypic feature association	mixins	entity to disease or phenotypic feature association mixin
+chemical to disease or phenotypic feature association	defining_slots	subject
+chemical to disease or phenotypic feature association	defining_slots	object
+chemical or drug or treatment to disease or phenotypic feature association	is_a	association
+chemical or drug or treatment to disease or phenotypic feature association	mixins	chemical to entity association mixin
+chemical or drug or treatment to disease or phenotypic feature association	mixins	entity to disease or phenotypic feature association mixin
+chemical or drug or treatment to disease or phenotypic feature association	defining_slots	subject
+chemical or drug or treatment to disease or phenotypic feature association	defining_slots	predicate
+chemical or drug or treatment to disease or phenotypic feature association	defining_slots	object
+chemical or drug or treatment to disease or phenotypic feature association	slots	FDA adverse event level
+chemical or drug or treatment side effect disease or phenotypic feature association	is_a	chemical or drug or treatment to disease or phenotypic feature association
+chemical or drug or treatment side effect disease or phenotypic feature association	mixins	chemical to entity association mixin
+chemical or drug or treatment side effect disease or phenotypic feature association	mixins	entity to disease or phenotypic feature association mixin
+chemical or drug or treatment side effect disease or phenotypic feature association	defining_slots	subject
+chemical or drug or treatment side effect disease or phenotypic feature association	defining_slots	predicate
+chemical or drug or treatment side effect disease or phenotypic feature association	defining_slots	object
+gene to pathway association	is_a	association
+gene to pathway association	mixins	gene to entity association mixin
+gene to pathway association	defining_slots	subject
+gene to pathway association	defining_slots	object
+molecular activity to pathway association	is_a	association
+chemical to pathway association	exact_mappings	SIO:001250
+chemical to pathway association	is_a	association
+chemical to pathway association	mixins	chemical to entity association mixin
+chemical to pathway association	defining_slots	subject
+chemical to pathway association	defining_slots	object
+named thing associated with likelihood of named thing association	is_a	association
+named thing associated with likelihood of named thing association	defining_slots	subject
+named thing associated with likelihood of named thing association	defining_slots	subject aspect qualifier
+named thing associated with likelihood of named thing association	defining_slots	subject context qualifier
+named thing associated with likelihood of named thing association	defining_slots	predicate
+named thing associated with likelihood of named thing association	defining_slots	object
+named thing associated with likelihood of named thing association	defining_slots	object aspect qualifier
+named thing associated with likelihood of named thing association	defining_slots	object context qualifier
+named thing associated with likelihood of named thing association	defining_slots	population context qualifier
+chemical gene interaction association	exact_mappings	SIO:001257
+chemical gene interaction association	is_a	association
+chemical gene interaction association	mixins	chemical to entity association mixin
+chemical gene interaction association	slots	subject form or variant qualifier
+chemical gene interaction association	slots	subject part qualifier
+chemical gene interaction association	slots	subject derivative qualifier
+chemical gene interaction association	slots	subject context qualifier
+chemical gene interaction association	slots	object form or variant qualifier
+chemical gene interaction association	slots	object part qualifier
+chemical gene interaction association	slots	object context qualifier
+chemical gene interaction association	slots	anatomical context qualifier
+chemical affects gene association	is_a	association
+chemical affects gene association	slots	subject form or variant qualifier
+chemical affects gene association	slots	subject part qualifier
+chemical affects gene association	slots	subject derivative qualifier
+chemical affects gene association	slots	subject aspect qualifier
+chemical affects gene association	slots	subject context qualifier
+chemical affects gene association	slots	subject direction qualifier
+chemical affects gene association	slots	object form or variant qualifier
+chemical affects gene association	slots	object part qualifier
+chemical affects gene association	slots	object aspect qualifier
+chemical affects gene association	slots	object context qualifier
+chemical affects gene association	slots	causal mechanism qualifier
+chemical affects gene association	slots	anatomical context qualifier
+chemical affects gene association	slots	qualified predicate
+drug to gene association	is_a	association
+drug to gene association	mixins	drug to entity association mixin
+drug to gene association	defining_slots	subject
+drug to gene association	defining_slots	object
+drug to gene association	related_mappings	SIO:001257
+material sample to entity association mixin	defining_slots	subject
+material sample derivation association	is_a	association
+material sample derivation association	defining_slots	subject
+material sample derivation association	defining_slots	predicate
+material sample to disease or phenotypic feature association	is_a	association
+material sample to disease or phenotypic feature association	mixins	material sample to entity association mixin
+material sample to disease or phenotypic feature association	mixins	entity to disease or phenotypic feature association mixin
+material sample to disease or phenotypic feature association	defining_slots	subject
+material sample to disease or phenotypic feature association	defining_slots	object
+disease to entity association mixin	defining_slots	subject
+entity to exposure event association mixin	defining_slots	object
+disease to exposure event association	is_a	association
+disease to exposure event association	mixins	disease to entity association mixin
+disease to exposure event association	mixins	entity to exposure event association mixin
+disease to exposure event association	defining_slots	subject
+disease to exposure event association	defining_slots	object
+entity to outcome association mixin	defining_slots	object
+exposure event to outcome association	is_a	association
+exposure event to outcome association	mixins	entity to outcome association mixin
+exposure event to outcome association	defining_slots	subject
+exposure event to outcome association	defining_slots	object
+exposure event to outcome association	slots	population context qualifier
+exposure event to outcome association	slots	temporal context qualifier
+frequency qualifier mixin	slots	frequency qualifier
+entity to feature or disease qualifiers mixin	is_a	frequency qualifier mixin
+entity to feature or disease qualifiers mixin	slots	severity qualifier
+entity to feature or disease qualifiers mixin	slots	onset qualifier
+entity to phenotypic feature association mixin	is_a	entity to feature or disease qualifiers mixin
+entity to phenotypic feature association mixin	mixins	frequency quantifier
+entity to phenotypic feature association mixin	defining_slots	object
+entity to phenotypic feature association mixin	slots	sex qualifier
+information content entity to named thing association	in_subset	model_organism_database
+information content entity to named thing association	is_a	association
+information content entity to named thing association	defining_slots	subject
+information content entity to named thing association	defining_slots	object
+entity to disease association mixin	is_a	entity to feature or disease qualifiers mixin
+entity to disease association mixin	defining_slots	object
+disease or phenotypic feature to entity association mixin	defining_slots	subject
+disease or phenotypic feature to location association	is_a	association
+disease or phenotypic feature to location association	mixins	disease or phenotypic feature to entity association mixin
+disease or phenotypic feature to genetic inheritance association	is_a	association
+disease or phenotypic feature to genetic inheritance association	mixins	disease or phenotypic feature to entity association mixin
+entity to disease or phenotypic feature association mixin	defining_slots	object
+genotype to entity association mixin	defining_slots	subject
+genotype to phenotypic feature association	is_a	association
+genotype to phenotypic feature association	mixins	entity to phenotypic feature association mixin
+genotype to phenotypic feature association	mixins	genotype to entity association mixin
+genotype to phenotypic feature association	defining_slots	subject
+genotype to phenotypic feature association	defining_slots	object
+exposure event to phenotypic feature association	is_a	association
+exposure event to phenotypic feature association	mixins	entity to phenotypic feature association mixin
+exposure event to phenotypic feature association	defining_slots	subject
+exposure event to phenotypic feature association	defining_slots	object
+disease to phenotypic feature association	close_mappings	dcid:DiseaseSymptomAssociation
+disease to phenotypic feature association	is_a	association
+disease to phenotypic feature association	mixins	entity to phenotypic feature association mixin
+disease to phenotypic feature association	mixins	disease to entity association mixin
+disease to phenotypic feature association	defining_slots	subject
+disease to phenotypic feature association	defining_slots	object
+case to phenotypic feature association	is_a	association
+case to phenotypic feature association	mixins	entity to phenotypic feature association mixin
+case to phenotypic feature association	mixins	case to entity association mixin
+case to phenotypic feature association	defining_slots	subject
+case to phenotypic feature association	defining_slots	object
+behavior to behavioral feature association	is_a	association
+behavior to behavioral feature association	mixins	entity to phenotypic feature association mixin
+behavior to behavioral feature association	defining_slots	subject
+behavior to behavioral feature association	defining_slots	object
+gene to entity association mixin	defining_slots	subject
+variant to entity association mixin	defining_slots	subject
+gene to disease or phenotypic feature association	narrow_mappings	WBVocab:Gene-Phenotype-Association
+gene to disease or phenotypic feature association	narrow_mappings	dcid:DiseaseGeneAssociation
+gene to disease or phenotypic feature association	narrow_mappings	SIO:000983
+gene to disease or phenotypic feature association	is_a	association
+gene to disease or phenotypic feature association	mixins	entity to phenotypic feature association mixin
+gene to disease or phenotypic feature association	mixins	gene to entity association mixin
+gene to disease or phenotypic feature association	slots	subject aspect qualifier
+gene to disease or phenotypic feature association	slots	object direction qualifier
+gene to phenotypic feature association	exact_mappings	WBVocab:Gene-Phenotype-Association
+gene to phenotypic feature association	is_a	gene to disease or phenotypic feature association
+gene to phenotypic feature association	mixins	entity to phenotypic feature association mixin
+gene to phenotypic feature association	mixins	gene to entity association mixin
+gene to phenotypic feature association	defining_slots	subject
+gene to phenotypic feature association	defining_slots	object
+gene to disease association	close_mappings	dcid:DiseaseGeneAssociation
+gene to disease association	exact_mappings	SIO:000983
+gene to disease association	is_a	gene to disease or phenotypic feature association
+gene to disease association	mixins	entity to disease association mixin
+gene to disease association	mixins	gene to entity association mixin
+gene to disease association	defining_slots	subject
+gene to disease association	defining_slots	object
+causal gene to disease association	is_a	gene to disease association
+causal gene to disease association	mixins	entity to disease association mixin
+causal gene to disease association	mixins	gene to entity association mixin
+causal gene to disease association	defining_slots	subject
+causal gene to disease association	defining_slots	object
+correlated gene to disease association	is_a	gene to disease association
+correlated gene to disease association	mixins	entity to disease association mixin
+correlated gene to disease association	mixins	gene to entity association mixin
+correlated gene to disease association	defining_slots	subject
+correlated gene to disease association	defining_slots	object
+druggable gene to disease association	is_a	gene to disease association
+druggable gene to disease association	mixins	entity to disease association mixin
+druggable gene to disease association	mixins	gene to entity association mixin
+druggable gene to disease association	defining_slots	subject
+druggable gene to disease association	defining_slots	object
+druggable gene to disease association	defining_slots	predicate
+variant to gene association	is_a	association
+variant to gene association	mixins	variant to entity association mixin
+variant to gene association	defining_slots	subject
+variant to gene association	defining_slots	predicate
+variant to gene association	defining_slots	object
+variant to gene expression association	is_a	variant to gene association
+variant to gene expression association	mixins	gene expression mixin
+variant to gene expression association	defining_slots	subject
+variant to gene expression association	defining_slots	predicate
+variant to gene expression association	defining_slots	object
+variant to population association	is_a	association
+variant to population association	mixins	variant to entity association mixin
+variant to population association	mixins	frequency quantifier
+variant to population association	mixins	frequency qualifier mixin
+variant to population association	defining_slots	subject
+variant to population association	defining_slots	object
+population to population association	is_a	association
+population to population association	defining_slots	subject
+population to population association	defining_slots	object
+variant to phenotypic feature association	is_a	association
+variant to phenotypic feature association	mixins	variant to entity association mixin
+variant to phenotypic feature association	mixins	entity to phenotypic feature association mixin
+variant to phenotypic feature association	defining_slots	subject
+variant to phenotypic feature association	defining_slots	object
+variant to disease association	is_a	association
+variant to disease association	mixins	variant to entity association mixin
+variant to disease association	mixins	entity to disease association mixin
+variant to disease association	defining_slots	subject
+variant to disease association	defining_slots	object
+genotype to disease association	is_a	association
+genotype to disease association	mixins	genotype to entity association mixin
+genotype to disease association	mixins	entity to disease association mixin
+genotype to disease association	defining_slots	subject
+genotype to disease association	defining_slots	object
+gene as a model of disease association	is_a	gene to disease association
+gene as a model of disease association	mixins	model to disease association mixin
+gene as a model of disease association	mixins	entity to disease association mixin
+gene as a model of disease association	defining_slots	subject
+gene as a model of disease association	defining_slots	predicate
+gene as a model of disease association	defining_slots	object
+variant as a model of disease association	is_a	variant to disease association
+variant as a model of disease association	mixins	model to disease association mixin
+variant as a model of disease association	mixins	entity to disease association mixin
+variant as a model of disease association	defining_slots	subject
+variant as a model of disease association	defining_slots	predicate
+variant as a model of disease association	defining_slots	object
+genotype as a model of disease association	is_a	genotype to disease association
+genotype as a model of disease association	mixins	model to disease association mixin
+genotype as a model of disease association	mixins	entity to disease association mixin
+genotype as a model of disease association	defining_slots	subject
+genotype as a model of disease association	defining_slots	predicate
+genotype as a model of disease association	defining_slots	object
+cell line as a model of disease association	is_a	cell line to disease or phenotypic feature association
+cell line as a model of disease association	mixins	model to disease association mixin
+cell line as a model of disease association	mixins	entity to disease association mixin
+cell line as a model of disease association	defining_slots	subject
+cell line as a model of disease association	defining_slots	predicate
+cell line as a model of disease association	defining_slots	object
+organismal entity as a model of disease association	is_a	association
+organismal entity as a model of disease association	mixins	model to disease association mixin
+organismal entity as a model of disease association	mixins	entity to disease association mixin
+organismal entity as a model of disease association	defining_slots	subject
+organismal entity as a model of disease association	defining_slots	predicate
+organismal entity as a model of disease association	defining_slots	object
+organism to organism association	is_a	association
+organism to organism association	defining_slots	subject
+organism to organism association	defining_slots	predicate
+organism to organism association	defining_slots	object
+taxon to taxon association	is_a	association
+taxon to taxon association	defining_slots	subject
+taxon to taxon association	defining_slots	predicate
+taxon to taxon association	defining_slots	object
+gene has variant that contributes to disease association	is_a	gene to disease association
+gene has variant that contributes to disease association	defining_slots	subject
+gene has variant that contributes to disease association	defining_slots	predicate
+gene has variant that contributes to disease association	defining_slots	object
+gene has variant that contributes to disease association	slots	subject form or variant qualifier
+gene to expression site association	is_a	association
+gene to expression site association	defining_slots	subject
+gene to expression site association	defining_slots	predicate
+gene to expression site association	defining_slots	object
+gene to expression site association	slots	stage qualifier
+gene to expression site association	slots	quantifier qualifier
+sequence variant modulates treatment association	is_a	association
+sequence variant modulates treatment association	defining_slots	subject
+sequence variant modulates treatment association	defining_slots	object
+functional association	is_a	association
+macromolecular machine to molecular activity association	is_a	functional association
+macromolecular machine to molecular activity association	mixins	macromolecular machine to entity association mixin
+macromolecular machine to biological process association	is_a	functional association
+macromolecular machine to biological process association	mixins	macromolecular machine to entity association mixin
+macromolecular machine to cellular component association	is_a	functional association
+macromolecular machine to cellular component association	mixins	macromolecular machine to entity association mixin
+molecular activity to chemical entity association	is_a	association
+molecular activity to molecular activity association	is_a	association
+functional association	exact_mappings	WBVocab:Gene-GO-Association
+gene to go term association	exact_mappings	WBVocab:Gene-GO-Association
+functional association	is_a	functional association
+gene to go term association	is_a	functional association
+functional association	defining_slots	subject
+gene to go term association	defining_slots	subject
+functional association	defining_slots	object
+gene to go term association	defining_slots	object
+entity to disease association	is_a	association
+entity to disease association	defining_slots	subject
+entity to disease association	defining_slots	object
+entity to disease association	slots	FDA approval status
+entity to phenotypic feature association	is_a	association
+entity to phenotypic feature association	defining_slots	subject
+entity to phenotypic feature association	defining_slots	object
+entity to phenotypic feature association	slots	FDA approval status
+sequence association	is_a	association
+genomic sequence localization	exact_mappings	dcid:GenomeAnnotation
+genomic sequence localization	is_a	sequence association
+genomic sequence localization	broad_mappings	dcid:Chromosome
+genomic sequence localization	slots	start interbase coordinate
+genomic sequence localization	slots	end interbase coordinate
+genomic sequence localization	slots	genome build
+genomic sequence localization	slots	strand
+genomic sequence localization	slots	phase
+sequence feature relationship	exact_mappings	CHADO:feature_relationship
+sequence feature relationship	is_a	association
+sequence feature relationship	defining_slots	subject
+sequence feature relationship	defining_slots	object
+transcript to gene relationship	is_a	sequence feature relationship
+transcript to gene relationship	defining_slots	subject
+transcript to gene relationship	defining_slots	object
+gene to gene product relationship	is_a	sequence feature relationship
+gene to gene product relationship	defining_slots	subject
+gene to gene product relationship	defining_slots	object
+exon to transcript relationship	is_a	sequence feature relationship
+exon to transcript relationship	defining_slots	subject
+exon to transcript relationship	defining_slots	object
+chemical entity or gene or gene product regulates gene association	is_a	association
+chemical entity or gene or gene product regulates gene association	slots	object direction qualifier
+anatomical entity to anatomical entity association	is_a	association
+anatomical entity to anatomical entity association	defining_slots	subject
+anatomical entity to anatomical entity association	defining_slots	object
+anatomical entity to anatomical entity part of association	is_a	anatomical entity to anatomical entity association
+anatomical entity to anatomical entity part of association	defining_slots	predicate
+anatomical entity to anatomical entity ontogenic association	is_a	anatomical entity to anatomical entity association
+anatomical entity to anatomical entity ontogenic association	defining_slots	predicate
+organism taxon to entity association	defining_slots	subject
+organism taxon to organism taxon association	is_a	association
+organism taxon to organism taxon association	mixins	organism taxon to entity association
+organism taxon to organism taxon association	defining_slots	subject
+organism taxon to organism taxon association	defining_slots	object
+organism taxon to organism taxon specialization	is_a	organism taxon to organism taxon association
+organism taxon to organism taxon specialization	defining_slots	predicate
+organism taxon to organism taxon interaction	is_a	organism taxon to organism taxon association
+organism taxon to organism taxon interaction	defining_slots	predicate
+organism taxon to organism taxon interaction	slots	associated environmental context
+organism taxon to environment association	is_a	association
+organism taxon to environment association	mixins	organism taxon to entity association

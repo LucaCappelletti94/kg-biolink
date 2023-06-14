@@ -44,6 +44,7 @@ if __name__ == '__main__':
                 else [node_metadata[node_alias_link]]
             )
         ] + [main_src]
+        if src != "" and src is not None
     ])
     nodes.drop_duplicates("node_name", inplace=True)
     nodes.reset_index(drop=True, inplace=True)
@@ -52,7 +53,7 @@ if __name__ == '__main__':
         dict(
             source=src,
             edge_type=edge_type,
-            destination=dst,
+            destination=dst.strip()
         )
         for group_name, group in data.items()
         if group_name in category_keys
@@ -64,7 +65,7 @@ if __name__ == '__main__':
             else [node_metadata[edge_type]]
         )
         for src in [
-            sub_src
+            sub_src.strip()
             for node_alias_link in metadata["node_alias_links"]
             for sub_src in (
                 node_metadata.get(node_alias_link, [])
@@ -72,11 +73,12 @@ if __name__ == '__main__':
                 else [node_metadata[node_alias_link]]
             )
         ] + [main_src]
+        if src != "" and dst != "" and src is not None and dst is not None
     ])
     edges.drop_duplicates(inplace=True)
     edges.reset_index(drop=True, inplace=True)
     
-    missing_node_names = set(edges.source) | set(edges.destination) - set(nodes.node_name)
+    missing_node_names = (set(edges.source) | set(edges.destination)) - set(nodes.node_name)
 
     nodes = pd.concat([
         nodes,
@@ -88,5 +90,5 @@ if __name__ == '__main__':
         ])
     ])
 
-    nodes.to_csv(f"kg_biolink_nodes_{version}.csv", index=False)
-    edges.to_csv(f"kg_biolink_edges_{version}.csv", index=False)
+    nodes.to_csv(f"kg_biolink_nodes_{version}.tsv", index=False, sep="\t")
+    edges.to_csv(f"kg_biolink_edges_{version}.tsv", index=False, sep="\t")
