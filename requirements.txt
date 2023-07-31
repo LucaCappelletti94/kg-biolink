@@ -1,3 +1,4 @@
 pyyaml
 pandas
 compress_json
+silence_tensorflow
